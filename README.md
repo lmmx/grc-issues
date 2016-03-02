@@ -1,6 +1,6 @@
 # grc-issues
 
-Tabulated mappings of human genome assembly issues to their location (and all other associated information from NCBI).
+Tabulated mappings of chicken, human, mouse, and zebrafish genome assembly issues (via [_Genome Reference Consortium_](http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/)) to their location (and all other associated information from NCBI).
 
 See also: [Ensembl assembly exceptions](https://github.com/lmmx/ensembl-assembly-exceptions), tabulated mappings of _H. sapiens_ and _M. musculus_ genome 'assembly exceptions' to their locations in core Ensembl database releases.
 
