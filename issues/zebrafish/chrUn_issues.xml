@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-3977</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CU694263.3</accession1>
+    <accession2>CU694263.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003043344.2 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003043344.2 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T06:13:42.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149679.1" ref_acc="NW_003043344.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>35552</stop>
+        <quality>
+          <version_mapped acc="CU694263">3</version_mapped>
+          <version_mapped acc="CU694263">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651935.1" ref_acc="NW_003043344.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>35552</stop>
+        <quality>
+          <version_mapped acc="CU694263">3</version_mapped>
+          <version_mapped acc="CU694263">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-3995</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CU550713.6</accession1>
+    <accession2>CU550713.6</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003336264.1 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003336264.1 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T06:47:21.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149680.1" ref_acc="NW_003336264.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>38724</stop>
+        <quality>
+          <version_mapped acc="CU550713">6</version_mapped>
+          <version_mapped acc="CU550713">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651911.1" ref_acc="NW_003336264.1" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>38724</stop>
+        <quality>
+          <version_mapped acc="CU550713">6</version_mapped>
+          <version_mapped acc="CU550713">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4007</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01079238.1</accession1>
+    <accession2>CABZ01079242.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003051371.2 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003051371.2 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T07:24:39.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149681.1" ref_acc="NW_003051371.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>107758</stop>
+        <quality>
+          <version_mapped acc="CABZ01079238">1</version_mapped>
+          <version_mapped acc="CABZ01079242">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651914.1" ref_acc="NW_003051371.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>107959</stop>
+        <quality>
+          <version_mapped acc="CABZ01079238">1</version_mapped>
+          <version_mapped acc="CABZ01079242">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4009</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX005448.16</accession1>
+    <accession2>BX005448.16</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001878251.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001878251.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T07:30:20.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149682.1" ref_acc="NW_001878251.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>137468</stop>
+        <quality>
+          <version_mapped acc="BX005448">16</version_mapped>
+          <version_mapped acc="BX005448">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651950.1" ref_acc="NW_001878251.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>137468</stop>
+        <quality>
+          <version_mapped acc="BX005448">16</version_mapped>
+          <version_mapped acc="BX005448">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4010</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CR788286.12</accession1>
+    <accession2>CR788286.12</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884381.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884381.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T07:31:40.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149683.1" ref_acc="NW_001884381.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>152860</stop>
+        <quality>
+          <version_mapped acc="CR788286">12</version_mapped>
+          <version_mapped acc="CR788286">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651864.1" ref_acc="NW_001884381.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>152860</stop>
+        <quality>
+          <version_mapped acc="CR788286">12</version_mapped>
+          <version_mapped acc="CR788286">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4016</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX942821.24</accession1>
+    <accession2>BX942821.24</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001878128.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001878128.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T07:32:30.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149684.1" ref_acc="NW_001878128.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>159057</stop>
+        <quality>
+          <version_mapped acc="BX942821">24</version_mapped>
+          <version_mapped acc="BX942821">24</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651899.1" ref_acc="NW_001878128.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>159057</stop>
+        <quality>
+          <version_mapped acc="BX942821">24</version_mapped>
+          <version_mapped acc="BX942821">24</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4020</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CR762420.25</accession1>
+    <accession2>CR762420.25</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884386.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884386.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T07:38:01.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149685.1" ref_acc="NW_001884386.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>164780</stop>
+        <quality>
+          <version_mapped acc="CR762420">25</version_mapped>
+          <version_mapped acc="CR762420">25</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651879.1" ref_acc="NW_001884386.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>164780</stop>
+        <quality>
+          <version_mapped acc="CR762420">25</version_mapped>
+          <version_mapped acc="CR762420">25</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4022</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CT583714.7</accession1>
+    <accession2>CABZ01034083.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003044888.2 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003044888.2 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T07:41:01.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149686.1" ref_acc="NW_003044888.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>260365</stop>
+        <quality>
+          <version_mapped acc="CT583714">7</version_mapped>
+          <version_mapped acc="CABZ01034083">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651945.1" ref_acc="NW_003044888.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>260465</stop>
+        <quality>
+          <version_mapped acc="CT583714">7</version_mapped>
+          <version_mapped acc="CABZ01034083">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4025</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CR847893.16</accession1>
+    <accession2>CR847893.16</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884400.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884400.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T07:45:54.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149687.1" ref_acc="NW_001884400.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>165668</stop>
+        <quality>
+          <version_mapped acc="CR847893">16</version_mapped>
+          <version_mapped acc="CR847893">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651940.1" ref_acc="NW_001884400.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>165668</stop>
+        <quality>
+          <version_mapped acc="CR847893">16</version_mapped>
+          <version_mapped acc="CR847893">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4028</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01062420.1</accession1>
+    <accession2>CABZ01001471.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001878118.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001878118.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T08:00:32.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149688.1" ref_acc="NW_001878118.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>252705</stop>
+        <quality>
+          <version_mapped acc="CABZ01062420">1</version_mapped>
+          <version_mapped acc="CABZ01001471">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651854.1" ref_acc="NW_001878118.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>253302</stop>
+        <quality>
+          <version_mapped acc="CABZ01062420">1</version_mapped>
+          <version_mapped acc="CABZ01001471">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4029</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01008482.1</accession1>
+    <accession2>CABZ01049117.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001879289.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001879289.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T09:43:22.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149689.1" ref_acc="NW_001879289.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>196689</stop>
+        <quality>
+          <version_mapped acc="CABZ01008482">1</version_mapped>
+          <version_mapped acc="CABZ01049117">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651888.1" ref_acc="NW_001879289.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>197274</stop>
+        <quality>
+          <version_mapped acc="CABZ01008482">1</version_mapped>
+          <version_mapped acc="CABZ01049117">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4035</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX927374.34</accession1>
+    <accession2>CR927215.14</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884413.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884413.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T09:46:43.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149690.1" ref_acc="NW_001884413.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>343018</stop>
+        <quality>
+          <version_mapped acc="BX927374">34</version_mapped>
+          <version_mapped acc="CR927215">14</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651896.1" ref_acc="NW_001884413.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>343018</stop>
+        <quality>
+          <version_mapped acc="BX927374">34</version_mapped>
+          <version_mapped acc="CR927215">14</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4036</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX465848.13</accession1>
+    <accession2>CABZ01033262.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003336270.1 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003336270.1 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T09:51:40.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002888.1" ref_acc="NC_007115.6" type="CHROMOSOME">4</mapSequence>
+        <start>58095109</start>
+        <stop>58279529</stop>
+        <quality>
+          <version_mapped acc="BX465848">13</version_mapped>
+          <version_mapped acc="CABZ01033262">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651953.1" ref_acc="NW_003336270.1" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>184511</stop>
+        <quality>
+          <version_mapped acc="BX465848">13</version_mapped>
+          <version_mapped acc="CABZ01033262">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4038</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CR792415.19</accession1>
+    <accession2>CR792415.19</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884427.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884427.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T09:52:41.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149691.1" ref_acc="NW_001884427.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>233193</stop>
+        <quality>
+          <version_mapped acc="CR792415">19</version_mapped>
+          <version_mapped acc="CR792415">19</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651892.1" ref_acc="NW_001884427.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>233193</stop>
+        <quality>
+          <version_mapped acc="CR792415">19</version_mapped>
+          <version_mapped acc="CR792415">19</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4047</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX640586.12</accession1>
+    <accession2>BX640586.12</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884442.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884442.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T10:01:37.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149692.1" ref_acc="NW_001884442.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>36911</stop>
+        <quality>
+          <version_mapped acc="BX640586">12</version_mapped>
+          <version_mapped acc="BX640586">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651906.1" ref_acc="NW_001884442.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>36911</stop>
+        <quality>
+          <version_mapped acc="BX640586">12</version_mapped>
+          <version_mapped acc="BX640586">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4048</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX571669.7</accession1>
+    <accession2>BX571669.7</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884441.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884441.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T10:02:19.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149693.1" ref_acc="NW_001884441.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>49295</stop>
+        <quality>
+          <version_mapped acc="BX571669">7</version_mapped>
+          <version_mapped acc="BX571669">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651921.1" ref_acc="NW_001884441.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>49295</stop>
+        <quality>
+          <version_mapped acc="BX571669">7</version_mapped>
+          <version_mapped acc="BX571669">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4049</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01003354.1</accession1>
+    <accession2>BX511020.10</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884444.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884444.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T10:09:27.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149694.1" ref_acc="NW_001884444.4" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>162759</stop>
+        <quality>
+          <version_mapped acc="CABZ01003354">1</version_mapped>
+          <version_mapped acc="BX511020">10</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651870.1" ref_acc="NW_001884444.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>162930</stop>
+        <quality>
+          <version_mapped acc="CABZ01003354">1</version_mapped>
+          <version_mapped acc="BX511020">10</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4053</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX276122.23</accession1>
+    <accession2>CABZ01002697.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001878780.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001878780.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T11:15:38.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002888.1" ref_acc="NC_007115.6" type="CHROMOSOME">4</mapSequence>
+        <start>66159812</start>
+        <stop>66364467</stop>
+        <quality>
+          <version_mapped acc="BX276122">23</version_mapped>
+          <version_mapped acc="CABZ01002697">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651959.1" ref_acc="NW_001878780.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>204746</stop>
+        <quality>
+          <version_mapped acc="BX276122">23</version_mapped>
+          <version_mapped acc="CABZ01002697">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4057</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX248128.20</accession1>
+    <accession2>BX248128.20</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884452.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884452.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T10:28:41.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002888.1" ref_acc="NC_007115.6" type="CHROMOSOME">4</mapSequence>
+        <start>60342314</start>
+        <stop>60546142</stop>
+        <quality>
+          <version_mapped acc="BX248128">20</version_mapped>
+          <version_mapped acc="BX248128">20</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651851.1" ref_acc="NW_001884452.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>203829</stop>
+        <quality>
+          <version_mapped acc="BX248128">20</version_mapped>
+          <version_mapped acc="BX248128">20</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4062</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>BX510909.19</accession1>
+    <accession2>BX510909.19</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003039389.2 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003039389.2 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T10:29:32.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149695.1" ref_acc="NW_003039389.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>190731</stop>
+        <quality>
+          <version_mapped acc="BX510909">19</version_mapped>
+          <version_mapped acc="BX510909">19</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651958.1" ref_acc="NW_003039389.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>190731</stop>
+        <quality>
+          <version_mapped acc="BX510909">19</version_mapped>
+          <version_mapped acc="BX510909">19</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4073</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CU182823.7</accession1>
+    <accession2>CU182823.7</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884473.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884473.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T11:00:11.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002888.1" ref_acc="NC_007115.6" type="CHROMOSOME">4</mapSequence>
+        <start>60546243</start>
+        <stop>60718166</stop>
+        <quality>
+          <version_mapped acc="CU182823">7</version_mapped>
+          <version_mapped acc="CU182823">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651891.1" ref_acc="NW_001884473.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>171924</stop>
+        <quality>
+          <version_mapped acc="CU182823">7</version_mapped>
+          <version_mapped acc="CU182823">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4080</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01044547.1</accession1>
+    <accession2>CABZ01051637.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003040715.2 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003040715.2 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T11:06:12.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002888.1" ref_acc="NC_007115.6" type="CHROMOSOME">4</mapSequence>
+        <start>69869016</start>
+        <stop>70220062</stop>
+        <quality>
+          <version_mapped acc="CABZ01044547">1</version_mapped>
+          <version_mapped acc="CABZ01051637">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651871.1" ref_acc="NW_003040715.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>352305</stop>
+        <quality>
+          <version_mapped acc="CABZ01044547">1</version_mapped>
+          <version_mapped acc="CABZ01051637">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4082</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01074982.1</accession1>
+    <accession2>CABZ01060486.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_003039384.2 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_003039384.2 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T11:10:41.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149696.1" ref_acc="NW_003039384.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>368637</stop>
+        <quality>
+          <version_mapped acc="CABZ01074982">1</version_mapped>
+          <version_mapped acc="CABZ01060486">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651934.1" ref_acc="NW_003039384.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>368818</stop>
+        <quality>
+          <version_mapped acc="CABZ01074982">1</version_mapped>
+          <version_mapped acc="CABZ01060486">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4090</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01002346.1</accession1>
+    <accession2>CABZ01003213.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001884533.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001884533.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T11:12:22.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002888.1" ref_acc="NC_007115.6" type="CHROMOSOME">4</mapSequence>
+        <start>70220163</start>
+        <stop>70472712</stop>
+        <quality>
+          <version_mapped acc="CABZ01002346">1</version_mapped>
+          <version_mapped acc="CABZ01003213">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651936.1" ref_acc="NW_001884533.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>253640</stop>
+        <quality>
+          <version_mapped acc="CABZ01002346">1</version_mapped>
+          <version_mapped acc="CABZ01003213">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>ZG-4095</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CT025651.9</accession1>
+    <accession2>CABZ01023255.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Can unplaced contig NW_001878922.3 be chromosomally placed in future genome assemblies.</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Can unplaced contig NW_001878922.3 be chromosomally placed in future genome assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-15T11:13:32.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002888.1" ref_acc="NC_007115.6" type="CHROMOSOME">4</mapSequence>
+        <start>75700720</start>
+        <stop>75892973</stop>
+        <quality>
+          <version_mapped acc="CT025651">9</version_mapped>
+          <version_mapped acc="CABZ01023255">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651917.1" ref_acc="NW_001878922.3" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>192420</stop>
+        <quality>
+          <version_mapped acc="CT025651">9</version_mapped>
+          <version_mapped acc="CABZ01023255">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>GRC Housekeeping</type>
+    <key>ZG-6086</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CU655832.14</accession1>
+    <accession2>CU655832.14</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Component trimmed to remove high variation join</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>CU655832.14 trimmed and resubmitted to remove high variation join with FP236251.7</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-03-05T07:23:20.000-0500</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>CU655832 has recieved an acc.ver update to CU655832.15. This submission update changes the sequence length, removing the high variation join with overlapping component FP236251.7</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>GRCz10</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002887.1" ref_acc="NC_007114.6" type="CHROMOSOME">3</mapSequence>
+        <start>59140607</start>
+        <stop>59172868</stop>
+        <quality>
+          <version_mapped acc="CU655832">14</version_mapped>
+          <version_mapped acc="CU655832">14</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CU651606.3" ref_acc="NC_007114.5" type="CHROMOSOME">3</mapSequence>
+        <start>59959469</start>
+        <stop>59970194</stop>
+        <quality>
+          <version_mapped acc="CU655832">14</version_mapped>
+          <version_mapped acc="CU655832">14</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>GRC Housekeeping</type>
+    <key>ZG-6087</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CU855947.6</accession1>
+    <accession2>CU855947.6</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Component trimmed to remove high variation join</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>CU855947.6 trimmed and resubmitted to remove high variation join with CU929113.7</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-03-05T07:21:41.000-0500</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>CU855947 has recieved an acc.ver update to CU855947.7. This submission update changes the sequence length, removing the high variation join with overlapping component CU929113.7</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>GRCz10</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002900.1" ref_acc="NC_007127.6" type="CHROMOSOME">16</mapSequence>
+        <start>52972511</start>
+        <stop>53004840</stop>
+        <quality>
+          <version_mapped acc="CU855947">6</version_mapped>
+          <version_mapped acc="CU855947">6</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR651872.1" ref_acc="NW_003050611.2" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>41689</start>
+        <stop>67913</stop>
+        <quality>
+          <version_mapped acc="CU855947">6</version_mapped>
+          <version_mapped acc="CU855947">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>ZG-7056</key>
+    <assignedChr>chrUn</assignedChr>
+    <accession1>CABZ01114244.1</accession1>
+    <accession2>CABZ01118734.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Unplaced WGS sequence requires localisation</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Unlocalised WGS scaffolds KN149882.1 KN149738.1, previously a single scaffold in Zv9 contain the first 3 exons of etv6 (NM_131832.2) and require localisation.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-03-19T11:07:08.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCz10</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="FR652945.1" ref_acc="NW_003337254.1" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>18352</stop>
+        <quality>
+          <version_mapped acc="CABZ01114244">1</version_mapped>
+          <version_mapped acc="CABZ01118734">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Path Problem</type>
+    <key>GG-4</key>
+    <assignedChr>chrW</assignedChr>
+    <accession1>AC177807.2</accession1>
+    <accession2>AADN04000582.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Galgal5.0 switch points for AC177807.2 and AADN04000582.1 are inconsistent with the alignment for the pair</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>The switch point between AC177807.2 and AADN04000582.1 in the Galgal5.0 assembly is incorrect, resulting in the inclusion of an additional 3 bp from AADN04000582.1 (nt 129848-12950).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-12-23T19:42:57.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Galgal5.0</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="Gallus_gallus-5.0" gb_asm_acc="GCA_000002315.3" ref_asm_acc="GCF_000002315.4" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM000121.4" ref_acc="NC_006126.4" type="CHROMOSOME">W</mapSequence>
+        <start>4936578</start>
+        <stop>5139720</stop>
+        <quality>
+          <version_mapped acc="AC177807">2</version_mapped>
+          <version_mapped acc="AADN04000582">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

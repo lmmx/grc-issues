@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-108</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 664723 (Cypt8), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>The reference assembly lacks representation of Cypt8 (GeneID: 664723).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-10-16T02:35:07.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-109</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 664724 (Cypt9), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>The reference assembly lacks representation of Cypt9 (GeneID: 664724).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-10-15T02:35:06.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-129</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 404236 (Mrgpra7), many placements, none good</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>The poor alignment of NM_207535.1 (Mrgpra7) to the reference assembly suggests this gene may be missing from the assembly.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-10-10T02:35:08.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-141</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 100134948 (Nlgn4), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>GeneID: 100134948 (Nlgn4) is missing from Mm build 37; this issue is redundant to MG-146.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-05-28T04:58:01.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-146</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 100113365 (Nlgn4l), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>GeneID: 100113365 (Nlgn4l) is missing in Mm Build 37; see MG-141.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-05-28T04:58:04.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-16</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 22315 (V2r9), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>GeneID: 22315 (V2r9) is missing in Mm Build 37.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-05-28T04:58:20.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-173</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>AC121784.2</accession1>
+    <accession2>AC121784.2</accession2>
+    <reportType>User Report</reportType>
+    <summary>Issue reported from Web Site</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>User reports a problem with genome annotation, not the genome sequence.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-11-01T08:00:01.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001005.2" ref_acc="NC_000078.6" type="CHROMOSOME">12</mapSequence>
+        <start>109689535</start>
+        <stop>109767591</stop>
+        <quality>
+          <version_mapped acc="AC121784">2</version_mapped>
+          <version_mapped acc="AC121784">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KB469740.1" ref_acc="NW_004450261.1" type="ALT_SCAFFOLD">12</mapSequence>
+        <start>231073</start>
+        <stop>316140</stop>
+        <quality>
+          <version_mapped acc="AC121784">2</version_mapped>
+          <version_mapped acc="AC121784">2</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001005.1" ref_acc="NC_000078.5" type="CHROMOSOME">12</mapSequence>
+        <start>110927745</start>
+        <stop>111005801</stop>
+        <quality>
+          <version_mapped acc="AC121784">2</version_mapped>
+          <version_mapped acc="AC121784">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-3869</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 19785 (Rprl3), many placements, none good</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>NR_024198.1 is based on U31228.1 which has many alignments in the reference assembly, but the best is only 96% to AC087183.9. It is unclear if this gene is erroneously missing from the reference assembly or validly not present in B6 mice.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-10-02T08:29:55.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-4097</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>AC112149.4</accession1>
+    <accession2>AC158807.11</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Switchpoint updated between AC112149.4 and AC158807.11</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Switchpoint updated between AC112149.4 and AC158807.11 since MGSCv37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-10-26T05:35:05.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switchpoint updated between AC112149.4 and AC158807.11 since MGSCv37</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>6410234</start>
+        <stop>6703240</stop>
+        <quality>
+          <version_mapped acc="AC112149">4</version_mapped>
+          <version_mapped acc="AC158807">11</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>3643301</start>
+        <stop>3936307</stop>
+        <quality>
+          <version_mapped acc="AC112149">4</version_mapped>
+          <version_mapped acc="AC158807">11</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-57</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 664726 (Cypt10), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>The reference assembly lacks representation of Cypt10 (GeneID: 664726).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-05-28T04:58:20.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-61</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 170942 (Erdr1), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>none</status_text>
+    <description>The reference assembly lacks representation for Erdr1 (GeneID: 170942).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-04-18T02:35:09.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Path Problem</type>
+    <key>MG-139</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC159136.7</accession1>
+    <accession2>AC170753.7</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 77777 (Ulbp1), assembly gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>NM_029975.1 aligns to both reference chr. 10 (acc1/acc2) and to the unplaced contig NT_166447.1. It is not clear whether either genomic sequence correctly represents this gene.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2010-03-01T11:08:08.000-0500</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>NT_166447.1 is redundant under finished component AC147512, NM_029975.1 aligns to AC147512 with 100% identity. AC147512 has been added to the TPF, an overlap exists to AC099593</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>22098481</start>
+        <stop>22310438</stop>
+        <quality>
+          <version_mapped acc="AC159136">7</version_mapped>
+          <version_mapped acc="AC170753">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>21818287</start>
+        <stop>22030244</stop>
+        <quality>
+          <version_mapped acc="AC159136">7</version_mapped>
+          <version_mapped acc="AC170753">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-160</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC144461.33</accession1>
+    <accession2>AC144461.33</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 192734 (AI646023), poor quality (includes component misassembly)</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There are sequence discrepancies between RefSeq NM_198860.1 (GeneID:192734) and the reference genome sequence to which it aligns.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-05-27T10:36:39.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switchpoint changed so that AC087540 is represented in the reference. There are no sequence discrepancies between RefSeq NM_198860 and AC087540.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>75426954</start>
+        <stop>75542668</stop>
+        <quality>
+          <version_mapped acc="AC144461">33</version_mapped>
+          <version_mapped acc="AC144461">33</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>74889699</start>
+        <stop>75014179</stop>
+        <quality>
+          <version_mapped acc="AC144461">33</version_mapped>
+          <version_mapped acc="AC144461">33</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Variation</type>
+    <key>MG-30</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 19370 (Raet1c), missing in assembly</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Raet1c (GeneID:19370) is missing from mouse Build 37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-01-09T09:34:47.000-0500</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>PMID:20166740 indicates Raet1c is absent in the Black 6 genome.&#xa;This issue will be reopened if sequence from other strains representing this gene become available.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3503</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC099593.6</accession1>
+    <accession2>AC099593.6</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a gap in the assembly between the centromere and component AC099593.6</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:14.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Finished component AC147512 has been added to the TPF extending off AC099593 towards the centromere.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>7170473</start>
+        <stop>7346540</stop>
+        <quality>
+          <version_mapped acc="AC099593">6</version_mapped>
+          <version_mapped acc="AC099593">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>3000001</start>
+        <stop>3176068</stop>
+        <quality>
+          <version_mapped acc="AC099593">6</version_mapped>
+          <version_mapped acc="AC099593">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3515</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC168222.2</accession1>
+    <accession2>AC156391.6</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components AC168222.2 and AC156391.6. The gap contains the following unfinished clone and WGS components: AC131283.6, CAAA01052029.1, CAAA01193623.1, CAAA01052025.1and CAAA01224627.1.</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:09.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Optical map analysis shows the 4.4Mb contig comprising AC147512.15 thru AC168222.2 should be orientated such that AC168222.2 sits adjacent to the centromere and AC147512.15 is paired across the gap with AC156391.6.&#xa;HTGS_PHASE2 clone AC131283.6 has been added to the TPF extending off AC168222.2.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>3127278</start>
+        <stop>7776389</stop>
+        <quality>
+          <version_mapped acc="AC168222">2</version_mapped>
+          <version_mapped acc="AC156391">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>7135039</start>
+        <stop>7496187</stop>
+        <quality>
+          <version_mapped acc="AC168222">2</version_mapped>
+          <version_mapped acc="AC156391">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3518</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01052029.1</accession1>
+    <accession2>CAAA01193623.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01052029.1 and CAAA01193623.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:08.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3515. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>7576745</start>
+        <stop>7583760</stop>
+        <quality>
+          <version_mapped acc="CAAA01052029">1</version_mapped>
+          <version_mapped acc="CAAA01193623">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>7296543</start>
+        <stop>7303558</stop>
+        <quality>
+          <version_mapped acc="CAAA01052029">1</version_mapped>
+          <version_mapped acc="CAAA01193623">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3520</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01193623.1</accession1>
+    <accession2>CAAA01052025.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01193623.1 and CAAA01052025.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:31:59.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3515. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>7580179</start>
+        <stop>7585029</stop>
+        <quality>
+          <version_mapped acc="CAAA01193623">1</version_mapped>
+          <version_mapped acc="CAAA01052025">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>7299977</start>
+        <stop>7304827</stop>
+        <quality>
+          <version_mapped acc="CAAA01193623">1</version_mapped>
+          <version_mapped acc="CAAA01052025">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3522</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01052025.1</accession1>
+    <accession2>CAAA01224627.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01052025.1 and CAAA01224627.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:00.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3515. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>7583861</start>
+        <stop>7589686</stop>
+        <quality>
+          <version_mapped acc="CAAA01052025">1</version_mapped>
+          <version_mapped acc="CAAA01224627">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>7303659</start>
+        <stop>7309484</stop>
+        <quality>
+          <version_mapped acc="CAAA01052025">1</version_mapped>
+          <version_mapped acc="CAAA01224627">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3523</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC168055.3</accession1>
+    <accession2>AC170751.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components AC168055.3 and AC170751.2. The gap contains the following WGS components: CAAA01061721.1, CAAA01061719.1, CAAA01061717.1, CAAA01138294.1.</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:01.000-0400</update>
+    <resolution>GRC-Duplicate</resolution>
+    <resolution_text>This issue is a duplicate of&#xa;issue MG-4141.&#xa;Please see Jira issue MG-4141 for all future updates regarding this issue</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>57657131</start>
+        <stop>58311233</stop>
+        <quality>
+          <version_mapped acc="AC168055">3</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>57376937</start>
+        <stop>57773981</stop>
+        <quality>
+          <version_mapped acc="AC168055">3</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3524</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01061719.1</accession1>
+    <accession2>CAAA01061717.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01061719.1 and CAAA01061717.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:31:58.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3523. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>57822269</start>
+        <stop>57847670</stop>
+        <quality>
+          <version_mapped acc="CAAA01061719">1</version_mapped>
+          <version_mapped acc="CAAA01061717">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>57542075</start>
+        <stop>57567476</stop>
+        <quality>
+          <version_mapped acc="CAAA01061719">1</version_mapped>
+          <version_mapped acc="CAAA01061717">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3526</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01061717.1</accession1>
+    <accession2>CAAA01138294.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01061717.1 and CAAA01138294.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:31:59.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3523. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>57843825</start>
+        <stop>57862807</stop>
+        <quality>
+          <version_mapped acc="CAAA01061717">1</version_mapped>
+          <version_mapped acc="CAAA01138294">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>57563631</start>
+        <stop>57582613</stop>
+        <quality>
+          <version_mapped acc="CAAA01061717">1</version_mapped>
+          <version_mapped acc="CAAA01138294">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3529</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01138294.1</accession1>
+    <accession2>AC170751.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01138294.1 and AC170751.2</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:31:58.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3523. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>57847953</start>
+        <stop>58311233</stop>
+        <quality>
+          <version_mapped acc="CAAA01138294">1</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>57567759</start>
+        <stop>57773981</stop>
+        <quality>
+          <version_mapped acc="CAAA01138294">1</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3530</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC155712.8</accession1>
+    <accession2>AC153379.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>02-DEC-14: RP23-366D3 has been cancelled&#xa;10-OCT-14: WI1-55F13 is completed sequence, HTGS phase 3&#xa;Accession for RP23-366D3: FO082312&#xa;Accession for WI1-55F13: FO907138</status_text>
+    <description>Gap present between components AC155712.8 and AC153379.1. The gap contains the following WGS components: CAAA01198737.1, CAAA01180439.1, CAAA01123074.1, CAAA01123070.1, CAAA01082152.1, CAAA01123066.1, CAAA01218211.1, CAAA01115023.1, CAAA01173964.1, CAAA01115019.1, CAAA01115014.1, CAAA01205408.1, CAAA01081969.1, CAAA01090905.1, CAAA01082131.1, CAAA01176764.1, CAAA01180938.1, CAAA01215495.1.</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:10.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67228314</start>
+        <stop>67653670</stop>
+        <quality>
+          <version_mapped acc="AC155712">8</version_mapped>
+          <version_mapped acc="AC153379">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66691062</start>
+        <stop>67116418</stop>
+        <quality>
+          <version_mapped acc="AC155712">8</version_mapped>
+          <version_mapped acc="AC153379">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3531</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01180439.1</accession1>
+    <accession2>CAAA01123074.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01180439.1 and CAAA01123074.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:10.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67371118</start>
+        <stop>67387253</stop>
+        <quality>
+          <version_mapped acc="CAAA01180439">1</version_mapped>
+          <version_mapped acc="CAAA01123074">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66833866</start>
+        <stop>66850001</stop>
+        <quality>
+          <version_mapped acc="CAAA01180439">1</version_mapped>
+          <version_mapped acc="CAAA01123074">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3533</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01123074.1</accession1>
+    <accession2>CAAA01123070.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01123074.1 and CAAA01123070.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:09.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67379325</start>
+        <stop>67389079</stop>
+        <quality>
+          <version_mapped acc="CAAA01123074">1</version_mapped>
+          <version_mapped acc="CAAA01123070">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66842073</start>
+        <stop>66851827</stop>
+        <quality>
+          <version_mapped acc="CAAA01123074">1</version_mapped>
+          <version_mapped acc="CAAA01123070">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3536</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01123070.1</accession1>
+    <accession2>CAAA01082152.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01123070.1 and CAAA01082152.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:06.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67387417</start>
+        <stop>67390452</stop>
+        <quality>
+          <version_mapped acc="CAAA01123070">1</version_mapped>
+          <version_mapped acc="CAAA01082152">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66850165</start>
+        <stop>66853200</stop>
+        <quality>
+          <version_mapped acc="CAAA01123070">1</version_mapped>
+          <version_mapped acc="CAAA01082152">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3539</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01082152.1</accession1>
+    <accession2>CAAA01123066.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01082152.1 and CAAA01123066.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:09.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67389180</start>
+        <stop>67393793</stop>
+        <quality>
+          <version_mapped acc="CAAA01082152">1</version_mapped>
+          <version_mapped acc="CAAA01123066">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66851928</start>
+        <stop>66856541</stop>
+        <quality>
+          <version_mapped acc="CAAA01082152">1</version_mapped>
+          <version_mapped acc="CAAA01123066">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3540</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01123066.1</accession1>
+    <accession2>CAAA01218211.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01123066.1 and CAAA01218211.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:14.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67391283</start>
+        <stop>67406177</stop>
+        <quality>
+          <version_mapped acc="CAAA01123066">1</version_mapped>
+          <version_mapped acc="CAAA01218211">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66854031</start>
+        <stop>66868925</stop>
+        <quality>
+          <version_mapped acc="CAAA01123066">1</version_mapped>
+          <version_mapped acc="CAAA01218211">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3541</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01218211.1</accession1>
+    <accession2>CAAA01115023.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01218211.1 and CAAA01115023.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:15.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67395260</start>
+        <stop>67413526</stop>
+        <quality>
+          <version_mapped acc="CAAA01218211">1</version_mapped>
+          <version_mapped acc="CAAA01115023">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66858008</start>
+        <stop>66876274</stop>
+        <quality>
+          <version_mapped acc="CAAA01218211">1</version_mapped>
+          <version_mapped acc="CAAA01115023">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3544</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01115023.1</accession1>
+    <accession2>CAAA01173964.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01115023.1 and CAAA01173964.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:16.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67409404</start>
+        <stop>67415897</stop>
+        <quality>
+          <version_mapped acc="CAAA01115023">1</version_mapped>
+          <version_mapped acc="CAAA01173964">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66872152</start>
+        <stop>66878645</stop>
+        <quality>
+          <version_mapped acc="CAAA01115023">1</version_mapped>
+          <version_mapped acc="CAAA01173964">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3545</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01173964.1</accession1>
+    <accession2>CAAA01115019.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01173964.1 and CAAA01115019.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:16.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67413627</start>
+        <stop>67423332</stop>
+        <quality>
+          <version_mapped acc="CAAA01173964">1</version_mapped>
+          <version_mapped acc="CAAA01115019">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66876375</start>
+        <stop>66886080</stop>
+        <quality>
+          <version_mapped acc="CAAA01173964">1</version_mapped>
+          <version_mapped acc="CAAA01115019">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3546</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01115019.1</accession1>
+    <accession2>CAAA01115014.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01115019.1 and CAAA01115014.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:15.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67416585</start>
+        <stop>67429153</stop>
+        <quality>
+          <version_mapped acc="CAAA01115019">1</version_mapped>
+          <version_mapped acc="CAAA01115014">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66879333</start>
+        <stop>66891901</stop>
+        <quality>
+          <version_mapped acc="CAAA01115019">1</version_mapped>
+          <version_mapped acc="CAAA01115014">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3547</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01115014.1</accession1>
+    <accession2>CAAA01205408.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01115014.1 and CAAA01205408.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:15.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67423433</start>
+        <stop>67431522</stop>
+        <quality>
+          <version_mapped acc="CAAA01115014">1</version_mapped>
+          <version_mapped acc="CAAA01205408">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66886181</start>
+        <stop>66894270</stop>
+        <quality>
+          <version_mapped acc="CAAA01115014">1</version_mapped>
+          <version_mapped acc="CAAA01205408">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3548</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01205408.1</accession1>
+    <accession2>CAAA01081969.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01205408.1 and CAAA01081969.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:12.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67429658</start>
+        <stop>67432346</stop>
+        <quality>
+          <version_mapped acc="CAAA01205408">1</version_mapped>
+          <version_mapped acc="CAAA01081969">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66892406</start>
+        <stop>66895094</stop>
+        <quality>
+          <version_mapped acc="CAAA01205408">1</version_mapped>
+          <version_mapped acc="CAAA01081969">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3549</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01081969.1</accession1>
+    <accession2>CAAA01090905.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01081969.1 and CAAA01090905.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:13.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67431623</start>
+        <stop>67440687</stop>
+        <quality>
+          <version_mapped acc="CAAA01081969">1</version_mapped>
+          <version_mapped acc="CAAA01090905">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66894371</start>
+        <stop>66903435</stop>
+        <quality>
+          <version_mapped acc="CAAA01081969">1</version_mapped>
+          <version_mapped acc="CAAA01090905">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3550</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01090905.1</accession1>
+    <accession2>CAAA01082131.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01090905.1 and CAAA01082131.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:07.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67432447</start>
+        <stop>67441617</stop>
+        <quality>
+          <version_mapped acc="CAAA01090905">1</version_mapped>
+          <version_mapped acc="CAAA01082131">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66895195</start>
+        <stop>66904365</stop>
+        <quality>
+          <version_mapped acc="CAAA01090905">1</version_mapped>
+          <version_mapped acc="CAAA01082131">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3551</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01082131.1</accession1>
+    <accession2>CAAA01176764.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01082131.1 and CAAA01176764.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:06.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67440788</start>
+        <stop>67451489</stop>
+        <quality>
+          <version_mapped acc="CAAA01082131">1</version_mapped>
+          <version_mapped acc="CAAA01176764">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66903536</start>
+        <stop>66914237</stop>
+        <quality>
+          <version_mapped acc="CAAA01082131">1</version_mapped>
+          <version_mapped acc="CAAA01176764">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3552</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01176764.1</accession1>
+    <accession2>CAAA01180938.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01176764.1 and CAAA01180938.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:08.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67441718</start>
+        <stop>67456649</stop>
+        <quality>
+          <version_mapped acc="CAAA01176764">1</version_mapped>
+          <version_mapped acc="CAAA01180938">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66904466</start>
+        <stop>66919397</stop>
+        <quality>
+          <version_mapped acc="CAAA01176764">1</version_mapped>
+          <version_mapped acc="CAAA01180938">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3553</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>CAAA01180938.1</accession1>
+    <accession2>CAAA01215495.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components CAAA01180938.1 and CAAA01215495.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:07.000-0400</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>These WGS components fall within accessioned clone gap found in ticket MG-3530. The WGS components are referenced in this ticket.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67451640</start>
+        <stop>67479475</stop>
+        <quality>
+          <version_mapped acc="CAAA01180938">1</version_mapped>
+          <version_mapped acc="CAAA01215495">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66914388</start>
+        <stop>66942223</stop>
+        <quality>
+          <version_mapped acc="CAAA01180938">1</version_mapped>
+          <version_mapped acc="CAAA01215495">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3641</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC147721.6</accession1>
+    <accession2>AC188091.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 Gap Problem</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap present between components AC147721.6 and AC188091.1</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-03-03T16:19:04.000-0500</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>Clone WI1-2703E19 has been finished and accession FQ976856.5 has been added to the TPF closing the gap between components AC147721.6 and AC188091.1</resolution_text>
+    <patchInfo gb_acc="None" ref_acc="None" region_name="None"/>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm39</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>74172059</start>
+        <stop>74318094</stop>
+        <quality>
+          <version_mapped acc="AC147721">6</version_mapped>
+          <version_mapped acc="AC188091">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>73634807</start>
+        <stop>73780839</stop>
+        <quality>
+          <version_mapped acc="AC147721">6</version_mapped>
+          <version_mapped acc="AC188091">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Path Problem</type>
+    <key>MG-3753</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC147512.15</accession1>
+    <accession2>AC147512.15</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>A gap exists between component AC147512.15 and the centromere.</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>A gap exists between component AC147512.15 and the centromere.</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:05.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Optical map analysis shows the 4.4Mb contig comprising AC147512.15 thru AC168222.2 should be orientated such that AC168222.2 sits adjacent to the centromere and AC147512.15 is paired across the gap with AC156391.6.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>7346541</start>
+        <stop>7493562</stop>
+        <quality>
+          <version_mapped acc="AC147512">15</version_mapped>
+          <version_mapped acc="AC147512">15</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3824</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC113107.15</accession1>
+    <accession2>AC113107.15</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 432467 (Hnrnph3), poor quality (includes component misassembly)</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a sequence discrepancy between RefSeq  NM_001079824.1 (Hnrnph3) and the genomic sequence to which it aligns resulting in a non-consensus splice site.</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-08-09T06:34:43.000-0400</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>PCR performed and an error found in the reference component AC113107.&#xa;The PCR has been submitted to EMBL/GenBank accession FQ976555.1, this has been added to the TPF to correct the reference.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>62947722</start>
+        <stop>63097791</stop>
+        <quality>
+          <version_mapped acc="AC113107">15</version_mapped>
+          <version_mapped acc="AC113107">15</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>62410470</start>
+        <stop>62560539</stop>
+        <quality>
+          <version_mapped acc="AC113107">15</version_mapped>
+          <version_mapped acc="AC113107">15</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3826</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC159542.8</accession1>
+    <accession2>AC159542.8</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 54712 (Plxnc1), poor quality (includes component misassembly)</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a sequence discrepancy between RefSeq NM_018797.2 (Plxnc1) and the genomic sequence to which it aligns resulting in a non-consensus splice site.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-10-25T10:05:15.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AGP switchpoints changed to represent AC159379.14 in the reference, correcting the error in AC159542.8 affecting the splice site.&#xa;MGSC WGS contig CAAA01029148.1 supports the consesus splice site.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>94764672</start>
+        <stop>94826239</stop>
+        <quality>
+          <version_mapped acc="AC159542">8</version_mapped>
+          <version_mapped acc="AC159542">8</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>94227417</start>
+        <stop>94330754</stop>
+        <quality>
+          <version_mapped acc="AC159542">8</version_mapped>
+          <version_mapped acc="AC159542">8</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3827</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC158612.7</accession1>
+    <accession2>AC158612.7</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 18641 (Pfkl), poor quality (includes component misassembly)</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a sequence discrepancy between RefSeq NM_008826.4 (Pfkl) and the genomic sequence to which it aligns resulting in a non-consensus splice site.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-10-25T11:26:27.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AGP switchpoints changed to represent AC153507.11 in the reference, correcting the error in AC158612.7 affecting the splice site.&#xa;Finished component AC007433.16 supports the consensus splice site.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>77899490</start>
+        <stop>77938520</stop>
+        <quality>
+          <version_mapped acc="AC158612">7</version_mapped>
+          <version_mapped acc="AC158612">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>77362235</start>
+        <stop>77498586</stop>
+        <quality>
+          <version_mapped acc="AC158612">7</version_mapped>
+          <version_mapped acc="AC158612">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3915</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC055777.12</accession1>
+    <accession2>AC055777.12</accession2>
+    <reportType>MGP-SNP</reportType>
+    <summary>SNP analysis of the Mouse Genomes Project suggests a possible single nucleotide error in reference clone AC055777.12</summary>
+    <status>Awaiting External Info</status>
+    <status_text>The reference has been verified, but the existence of contradictory C57BL/6J sequences may be evidence for unrecognized intra-strain variation. This issue will be re-visited when an SOP for investigation of mouse variation is developed.</status_text>
+    <description>SNP analysis of the Mouse Genomes Project suggests a possible single nucleotide error in reference clone AC055777.12</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>SAB Decision</external_info_type>
+    <update>2013-03-01T10:57:57.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>76935898</start>
+        <stop>77095204</stop>
+        <quality>
+          <version_mapped acc="AC055777">12</version_mapped>
+          <version_mapped acc="AC055777">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>76398643</start>
+        <stop>76557949</stop>
+        <quality>
+          <version_mapped acc="AC055777">12</version_mapped>
+          <version_mapped acc="AC055777">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-4</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC123806.4</accession1>
+    <accession2>AC123806.4</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 10 redundant clone AC123806?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Possible redundant clone in chr.10 TPF</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:11.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AC123806 has been removed from the TPF as redundant under AC192091/AC141428.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>104007035</start>
+        <stop>104167253</stop>
+        <quality>
+          <version_mapped acc="AC123806">4</version_mapped>
+          <version_mapped acc="AC123806">4</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>103469669</start>
+        <stop>103629835</stop>
+        <quality>
+          <version_mapped acc="AC123806">4</version_mapped>
+          <version_mapped acc="AC123806">4</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Path Problem</type>
+    <key>MG-4070</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC091681.44</accession1>
+    <accession2>AC091681.44</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>AC091681.44 removed from TPF</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>AC091681.44 removed from TPF since MGSCv37. AC122734.6&#xa;and AL691505.12 overlap well.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-10-19T11:51:05.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AC091681.44 removed from TPF since MGSCv37. AC122734.6&#xa;and AL691505.12 overlap well.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>12761067</start>
+        <stop>12955826</stop>
+        <quality>
+          <version_mapped acc="AC091681">44</version_mapped>
+          <version_mapped acc="AC091681">44</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>12632935</start>
+        <stop>12675632</stop>
+        <quality>
+          <version_mapped acc="AC091681">44</version_mapped>
+          <version_mapped acc="AC091681">44</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Path Problem</type>
+    <key>MG-4071</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC148335.4</accession1>
+    <accession2>AC122909.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Changes between AC148335.4 and AC122909.2</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Changes have been made between AC148335.4 and AC122909.2 since MGSCv37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:05.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Changes have been made between AC148335.4 and AC122909.2 since MGSCv37 which include: AC123806.4 has been removed; AC192091.4 and AC193858.3 have been added; AC141428.4 has been updated to AC141428.5</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>103934628</start>
+        <stop>104469135</stop>
+        <quality>
+          <version_mapped acc="AC148335">4</version_mapped>
+          <version_mapped acc="AC122909">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>103397262</start>
+        <stop>103906191</stop>
+        <quality>
+          <version_mapped acc="AC148335">4</version_mapped>
+          <version_mapped acc="AC122909">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Path Problem</type>
+    <key>MG-4072</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC152945.1</accession1>
+    <accession2>AC152945.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>AC226737.3 added to TPF</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>AC226737.3 added to TPF since MGSCv37, overlapping AC152945.1 and providing telomeric sequence.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-10-19T12:14:26.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AC226737.3 added to TPF since MGSCv37, overlapping AC152945.1 and providing telomeric sequence.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>130468014</start>
+        <stop>130556199</stop>
+        <quality>
+          <version_mapped acc="AC152945">1</version_mapped>
+          <version_mapped acc="AC152945">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>129905070</start>
+        <stop>129993255</stop>
+        <quality>
+          <version_mapped acc="AC152945">1</version_mapped>
+          <version_mapped acc="AC152945">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-4090</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC159325.13</accession1>
+    <accession2>AC153572.13</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Switchpoint change between AC159325.13 and AC153572.13</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Switch Points between AC159325.13 and AC153572.13 have changed since MGSCv37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:02.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switch Points between AC159325.13 and AC153572.13 have changed since MGSCv37</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>5773534</start>
+        <stop>6084486</stop>
+        <quality>
+          <version_mapped acc="AC159325">13</version_mapped>
+          <version_mapped acc="AC153572">13</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>4262055</start>
+        <stop>4573007</stop>
+        <quality>
+          <version_mapped acc="AC159325">13</version_mapped>
+          <version_mapped acc="AC153572">13</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-4091</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC164171.5</accession1>
+    <accession2>AC153981.5</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Switchpoint update between AC153981.5 and AC164171.5</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Switchpoint update between AC153981.5 and AC164171.5 since MGSCv37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:01.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switchpoint update between AC153981.5 and AC164171.5 since MGSCv37</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>6703241</start>
+        <stop>6961267</stop>
+        <quality>
+          <version_mapped acc="AC164171">5</version_mapped>
+          <version_mapped acc="AC153981">5</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>3385274</start>
+        <stop>3643300</stop>
+        <quality>
+          <version_mapped acc="AC164171">5</version_mapped>
+          <version_mapped acc="AC153981">5</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-4092</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC156393.12</accession1>
+    <accession2>AC158639.8</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Switchpoint update between AC156393.12 and AC158639.8</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Switchpoint update between AC156393.12 and AC158639.8 since MGSCv37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:03.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switchpoint update between AC156393.12 and AC158639.8 since MGSCv37</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>4874332</start>
+        <stop>5027214</stop>
+        <quality>
+          <version_mapped acc="AC156393">12</version_mapped>
+          <version_mapped acc="AC158639">8</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>5319327</start>
+        <stop>5472209</stop>
+        <quality>
+          <version_mapped acc="AC156393">12</version_mapped>
+          <version_mapped acc="AC158639">8</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-4093</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC156275.6</accession1>
+    <accession2>AC158617.9</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Switchpoint updated between AC156275.6 and AC158617.9</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Switchpoint updated between AC156275.6 and AC158617.9 since MGSCv37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:03.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switchpoint updated between AC156275.6 and AC158617.9 since MGSCv37</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>4473474</start>
+        <stop>4703757</stop>
+        <quality>
+          <version_mapped acc="AC156275">6</version_mapped>
+          <version_mapped acc="AC158617">9</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>5642784</start>
+        <stop>5873067</stop>
+        <quality>
+          <version_mapped acc="AC156275">6</version_mapped>
+          <version_mapped acc="AC158617">9</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-4096</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC158639.8</accession1>
+    <accession2>AC153573.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Switchpoint update between AC158639.8 and AC153573.3</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Switchpoint updated between AC158639.8 and AC153573.3 since MGSCv37</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:04.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switchpoint updated between AC158639.8 and AC153573.3 since MGSCv37</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>4703758</start>
+        <stop>4915362</stop>
+        <quality>
+          <version_mapped acc="AC158639">8</version_mapped>
+          <version_mapped acc="AC153573">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>5431179</start>
+        <stop>5642783</stop>
+        <quality>
+          <version_mapped acc="AC158639">8</version_mapped>
+          <version_mapped acc="AC153573">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4137</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC168222.2</accession1>
+    <accession2>AC168222.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 gap problem</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>Clones RP23-196E17 and RP24-61P23 are to be sequenced extending in to the gap.</status_text>
+    <description>There is a gap in the chromosome between AC168222.2 and the centromere.&#xa;The gap contains the following unfinished clone AC131283.6</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:12.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>3127278</start>
+        <stop>3211502</stop>
+        <quality>
+          <version_mapped acc="AC168222">2</version_mapped>
+          <version_mapped acc="AC168222">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>7135039</start>
+        <stop>7219263</stop>
+        <quality>
+          <version_mapped acc="AC168222">2</version_mapped>
+          <version_mapped acc="AC168222">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4138</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC147512.15</accession1>
+    <accession2>AC156391.6</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr.10 gap problem</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>WI1-2637M12_sequence_production_complete_draft_assembly_submitted and accession obtained, FQ976855.1&#xa;Accession for WI1-2637M12: FQ976855&#xa;03-DEC-14: WI1-2509D9 is completed sequence, HTGS phase 3&#xa;Accession for WI1-2509D9: FO907139</status_text>
+    <description>There is a gap in the chromosome between AC147512.15 and AC156391.6.&#xa;The gap contains the following WGS contigs: CAAA01204934.1, CAAA01052029.1, CAAA01193623.1, CAAA01052025.1 and CAAA01224627.1.</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:31:59.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>7346541</start>
+        <stop>7776389</stop>
+        <quality>
+          <version_mapped acc="AC147512">15</version_mapped>
+          <version_mapped acc="AC156391">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4141</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC168055.3</accession1>
+    <accession2>AC170751.2</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 664783 (Dux), missing in assembly</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>21-OCT-13: RP24-264O11 is ready to enter the sequencing pipeline&#xa;23-OCT-14: WI1-2272M7 is completed sequence, HTGS phase 3&#xa;Accession for RP24-264O11: FO082320&#xa;Accession for WI1-2272M7: FQ976852</status_text>
+    <description>Dux (GeneID: 664783) is missing from mouse build MGSCv37.</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:06.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>57657131</start>
+        <stop>58311233</stop>
+        <quality>
+          <version_mapped acc="AC168055">3</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>57376937</start>
+        <stop>57773981</stop>
+        <quality>
+          <version_mapped acc="AC168055">3</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4262</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC147512.15</accession1>
+    <accession2>AC156391.6</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Fix patch for issue described in MG-4138</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a gap between AC147512.15 and AC156391.6, this patch adds component FO907139.2 to the reference assembly providing ~6kb sequence to the gap.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:11.000-0400</update>
+    <resolution>GRC-Duplicate</resolution>
+    <resolution_text>There is an assembly gap between AC147512.15 and AC156391.6, originally described in MG-4138. This duplicate Jira issue is being used to manage an update at this gap that is being considered for patch release.</resolution_text>
+    <patchInfo gb_acc="None" ref_acc="None" region_name="None"/>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>GRCm39</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>7346541</start>
+        <stop>7776389</stop>
+        <quality>
+          <version_mapped acc="AC147512">15</version_mapped>
+          <version_mapped acc="AC156391">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4263</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC155712.8</accession1>
+    <accession2>AC153379.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Fix patch for issue described in MG-3530</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a gap between AC155712.8 and AC153379.1, this patch adds component FO907138.2 to the reference assembly providing ~16kb sequence to the gap.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:04.000-0400</update>
+    <resolution>GRC-Duplicate</resolution>
+    <resolution_text>There is an assembly gap between AC155712.8 and AC153379.1, originally described in MG-3530. This duplicate Jira issue is being used to manage an update at this gap that is being considered for patch release.</resolution_text>
+    <patchInfo gb_acc="None" ref_acc="None" region_name="None"/>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm39</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>67228314</start>
+        <stop>67653670</stop>
+        <quality>
+          <version_mapped acc="AC155712">8</version_mapped>
+          <version_mapped acc="AC153379">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>66691062</start>
+        <stop>67116418</stop>
+        <quality>
+          <version_mapped acc="AC155712">8</version_mapped>
+          <version_mapped acc="AC153379">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4264</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>AC168055.3</accession1>
+    <accession2>AC170751.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Fix patch for issue described in MG-4141</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a gap between AC168055.3 and AC170751.2, this patch adds component FQ976852.4 to the reference assembly providing ~24.5kb sequence to the gap.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:32:14.000-0400</update>
+    <resolution>GRC-Duplicate</resolution>
+    <resolution_text>There is an assembly gap between AC168055.3 and AC170751.2, originally described in MG-4141. This duplicate Jira issue is being used to manage an update at this gap that is being considered for patch release.</resolution_text>
+    <AltPatchType>GRCm38:FIX</AltPatchType>
+    <patchInfo gb_acc="KQ030491.1" ref_acc="NW_012132907.1" region_name="region81"/>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm39,GRCm38.p4</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.2" ref_acc="NC_000076.6" type="CHROMOSOME">10</mapSequence>
+        <start>57657131</start>
+        <stop>58311233</stop>
+        <quality>
+          <version_mapped acc="AC168055">3</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001003.1" ref_acc="NC_000076.5" type="CHROMOSOME">10</mapSequence>
+        <start>57376937</start>
+        <stop>57773981</stop>
+        <quality>
+          <version_mapped acc="AC168055">3</version_mapped>
+          <version_mapped acc="AC170751">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Variation</type>
+    <key>MG-53</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 19368 (Raet1a), missing in assembly</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Raet1a (GeneID: 19368) is missing from mouse Build 37.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-01-09T09:30:24.000-0500</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>PMID:20166740 indicates Raet1a is absent in the Black 6 genome.&#xa;This issue will be reopened if sequence from other strains representing this gene become available.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Variation</type>
+    <key>MG-54</key>
+    <assignedChr>chr10</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 19369 (Raet1b), missing in assembly</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Raet1b (GeneID:19369) is missing from mouse Build 37.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-01-09T09:35:18.000-0500</update>
+    <resolution>GRC Resolved- No Change</resolution>
+    <resolution_text>PMID:20166740 indicates Raet1b is absent in the Black 6 genome.&#xa;This issue will be reopened if sequence from other strains representing this gene become available.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

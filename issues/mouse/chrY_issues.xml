@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3811</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC007585.15</accession1>
+    <accession2>AC007585.15</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Was chr. Y unlocalized contig NT_166402 dropped intentionally in Mm37B?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine why NT_166402 was dropped from Mm37B</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:05:10.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Component AC007585.15 will be redundant between AC139318.5 and AC134433.3 in the Chr. Y reference.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>806171</start>
+        <stop>912642</stop>
+        <quality>
+          <version_mapped acc="AC007585">15</version_mapped>
+          <version_mapped acc="AC007585">15</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456324.1" ref_acc="NT_166402.1" type="UNLOC_SCAFFOLD">Y</mapSequence>
+        <start>1</start>
+        <stop>106482</stop>
+        <quality>
+          <version_mapped acc="AC007585">15</version_mapped>
+          <version_mapped acc="AC007585">15</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3812</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC132285.4</accession1>
+    <accession2>AC142253.3</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Was chr. Y unlocalized contig NT_166423 dropped intentionally in Mm37B?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine why NT_166423 was dropped from Mm37B</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:25.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>NT_166243.1 is redundant with components of the reference chr. Y v.10 TPF.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>28749699</start>
+        <stop>29021494</stop>
+        <quality>
+          <version_mapped acc="AC132285">4</version_mapped>
+          <version_mapped acc="AC142253">3</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456344.1" ref_acc="NT_166423.1" type="UNLOC_SCAFFOLD">Y</mapSequence>
+        <start>1</start>
+        <stop>271800</stop>
+        <quality>
+          <version_mapped acc="AC132285">4</version_mapped>
+          <version_mapped acc="AC142253">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3813</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC147265.2</accession1>
+    <accession2>AC147265.2</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Was component from unlocalized chr. Y contig NT_161866 dropped intentionally in Mm37B?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine why AC147265.2 (a component of unlocalized chr. Y contig NT_161866) was not included in Mm37B.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:25.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Component AC147265.2 will be redundant between AC131783.4 and AC145579.4 in the Chr. Y reference.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>28860484</start>
+        <stop>29031914</stop>
+        <quality>
+          <version_mapped acc="AC147265">2</version_mapped>
+          <version_mapped acc="AC147265">2</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456244.1" ref_acc="NT_161866.3" type="UNLOC_SCAFFOLD">Y</mapSequence>
+        <start>513082</start>
+        <stop>525199</stop>
+        <quality>
+          <version_mapped acc="AC147265">2</version_mapped>
+          <version_mapped acc="AC147265">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3814</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC132296.1</accession1>
+    <accession2>AC132296.1</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Was component from unlocalized chr. Y contig NT_161924 dropped intentionally in Mm37B?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine why AC132296.1(a component of unlocalized chr. Y contig NT_161924) was not included in Mm37B.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:05:25.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Component AC132296.1 will be redundant between AC183791.2 and AC175247.2 in the Chr. Y reference.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456263.1" ref_acc="NT_161924.3" type="UNLOC_SCAFFOLD">Y</mapSequence>
+        <start>419916</start>
+        <stop>473985</stop>
+        <quality>
+          <version_mapped acc="AC132296">1</version_mapped>
+          <version_mapped acc="AC132296">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3815</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC144554.3</accession1>
+    <accession2>AC144554.3</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Was component from unlocalized chr. Y contig NT_166375 dropped intentionally in Mm37B?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine why AC144554.3 (a component of unlocalized chr. Y contig NT_166375) was not included in Mm37B.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:05:11.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Component AC144554.3 will be redundant between AC192583.2 and AC204724.3 in the Chr. Y reference.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456306.1" ref_acc="NT_166375.1" type="UNLOC_SCAFFOLD">Y</mapSequence>
+        <start>1</start>
+        <stop>37203</stop>
+        <quality>
+          <version_mapped acc="AC144554">3</version_mapped>
+          <version_mapped acc="AC144554">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>GRC Housekeeping</type>
+    <key>MG-3947</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC203584.3</accession1>
+    <accession2>AC151712.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Gap updates to mouse Chr. Y unlocalized TPF</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>GRC housekeeping update needed to restore unordered nature of Chr. Y unlocalized contigs prior to release of GRCm38.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:25.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Gaps between Mouse Chr. Y unlocalized contigs have been removed, and the contigs have been renumbered.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>63280033</start>
+        <stop>90844698</stop>
+        <quality>
+          <version_mapped acc="AC203584">3</version_mapped>
+          <version_mapped acc="AC151712">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Unknown</type>
+    <key>MG-4041</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC144554.3</accession1>
+    <accession2>AC192583.2</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 100039614 (LOC100039614), assembly gap, unplaced contig</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Single nt mismatch in the alignment of RefSeq NM_001160137.1 to Chr. Y unlocalized contig NT_166375.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-02-23T19:14:42.000-0500</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>The Chr. Y Reference TPF has been updated, and NM_001160137.1 has at least three perfect alignments to components AC226688.3, AC202665.3, and AC195646.4.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456306.1" ref_acc="NT_166375.1" type="UNLOC_SCAFFOLD">Y</mapSequence>
+        <start>1</start>
+        <stop>171164</stop>
+        <quality>
+          <version_mapped acc="AC144554">3</version_mapped>
+          <version_mapped acc="AC192583">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>GRC Housekeeping</type>
+    <key>MG-4140</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC140203.2</accession1>
+    <accession2>AC151712.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Update gaps with method ALIGNMENT on chr. Y TPF</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Gap method ALIGNMENT found on chr. Y TPFs should be updated to new method type in preparation for AGP2.0.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:27.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Gap sizes citing the method &quot;ALIGNMENT&quot; have been updated to either RADIATION HYBRID or ALIGN GENUS.</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>GRCm39</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>12499587</start>
+        <stop>90844698</stop>
+        <quality>
+          <version_mapped acc="AC140203">2</version_mapped>
+          <version_mapped acc="AC151712">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4209</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC233742.3</accession1>
+    <accession2>AC190179.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. Y Assembly Gap Caused by Phase 1 Sequence</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>AC226687 and AC212990 were dropped from GRCm38 because they were phase 1 sequences.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:27.000-0400</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>AC226687.3 and AC212990.3 have been submitted as complete sequence.</resolution_text>
+    <AltPatchType>GRCm38:FIX</AltPatchType>
+    <patchInfo gb_acc="JH792832.1" ref_acc="NW_004058056.1" region_name="region73"/>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>GRCm38.p1</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>45842743</start>
+        <stop>46337667</stop>
+        <quality>
+          <version_mapped acc="AC233742">3</version_mapped>
+          <version_mapped acc="AC190179">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="JH792832.1" ref_acc="NW_004058056.1" type="ALT_SCAFFOLD">Y</mapSequence>
+        <start>1</start>
+        <stop>544189</stop>
+        <quality>
+          <version_mapped acc="AC233742">3</version_mapped>
+          <version_mapped acc="AC190179">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4210</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC240971.2</accession1>
+    <accession2>AC240277.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. Y Reference Assembly Gap</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>There is an assembly gap between accessions AC240971.2 and AC240277.3.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:27.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>66019703</start>
+        <stop>66452981</stop>
+        <quality>
+          <version_mapped acc="AC240971">2</version_mapped>
+          <version_mapped acc="AC240277">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4211</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC240971.2</accession1>
+    <accession2>AC240277.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. Y Reference Assembly Gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is an assembly gap between AC240971.2 and AC240277.3, originally described in MG-4210. This duplicate Jira issue is being used to manage an update at this gap that is being considered for patch release.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:26.000-0400</update>
+    <resolution>GRC-Duplicate</resolution>
+    <resolution_text>There is an assembly gap between AC240971.2 and AC240277.3, originally described in MG-4210. This duplicate Jira issue is being used to manage an update at this gap that is being considered for patch release.</resolution_text>
+    <AltPatchType>GRCm38:FIX</AltPatchType>
+    <patchInfo gb_acc="JH792833.1" ref_acc="NW_004058057.1" region_name="region74"/>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>GRCm38.p1</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>66019703</start>
+        <stop>66452981</stop>
+        <quality>
+          <version_mapped acc="AC240971">2</version_mapped>
+          <version_mapped acc="AC240277">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4213</key>
+    <assignedChr>chrY</assignedChr>
+    <accession1>AC243554.2</accession1>
+    <accession2>AC202135.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. Y Reference Assembly Gapr</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a gap in GRCm38 NC_000087.7 between AC243554.2 and AC202135.2.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:37:26.000-0400</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>AC242685.3 spans the gap between AC243554.2 and AC202135.2 in GRCm38 chr. Y sequence NC_000087.7.</resolution_text>
+    <AltPatchType>GRCm38:FIX</AltPatchType>
+    <patchInfo gb_acc="JH792834.1" ref_acc="NW_004058058.1" region_name="region76"/>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>GRCm38.p1,GRCm39</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001014.2" ref_acc="NC_000087.7" type="CHROMOSOME">Y</mapSequence>
+        <start>49216909</start>
+        <stop>49556418</stop>
+        <quality>
+          <version_mapped acc="AC243554">2</version_mapped>
+          <version_mapped acc="AC202135">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="JH792834.1" ref_acc="NW_004058058.1" type="ALT_SCAFFOLD">Y</mapSequence>
+        <start>1</start>
+        <stop>331480</stop>
+        <quality>
+          <version_mapped acc="AC243554">2</version_mapped>
+          <version_mapped acc="AC202135">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Path Problem</type>
+    <key>GG-1</key>
+    <assignedChr>chr12</assignedChr>
+    <accession1>AADN04000425.1</accession1>
+    <accession2>AADN04000454.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Need evidence for blunt join of AADN04000425.1/AADN04000454.1</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>The GRC requires sequence evidence to support the blunt join of AADN04000425.1 and AADN04000454.1 on Galgal5.0 chr.12.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-12-23T19:31:51.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Galgal5.0</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="Gallus_gallus-5.0" gb_asm_acc="GCA_000002315.3" ref_asm_acc="GCF_000002315.4" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM000104.4" ref_acc="NC_006099.4" type="CHROMOSOME">12</mapSequence>
+        <start>1</start>
+        <stop>1116720</stop>
+        <quality>
+          <version_mapped acc="AADN04000425">1</version_mapped>
+          <version_mapped acc="AADN04000454">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Path Problem</type>
+    <key>GG-2</key>
+    <assignedChr>chr12</assignedChr>
+    <accession1>AADN04000419.1</accession1>
+    <accession2>AADN04000453.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Need evidence for blunt join of AADN04000419.1/AADN04000453.1</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>The GRC requires sequence evidence to support the blunt join of AADN04000419.1/AADN04000453.1 on Galgal5.0 chr.12.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-12-23T19:28:40.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Galgal5.0</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="Gallus_gallus-5.0" gb_asm_acc="GCA_000002315.3" ref_asm_acc="GCF_000002315.4" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM000104.4" ref_acc="NC_006099.4" type="CHROMOSOME">12</mapSequence>
+        <start>1117754</start>
+        <stop>3178806</stop>
+        <quality>
+          <version_mapped acc="AADN04000419">1</version_mapped>
+          <version_mapped acc="AADN04000453">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Path Problem</type>
+    <key>GG-3</key>
+    <assignedChr>chr12</assignedChr>
+    <accession1>AADN04000419.1</accession1>
+    <accession2>AADN04000013.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Need evidence for blunt join of AADN04000419.1/AADN04000013.1</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>The GRC requires sequence evidence to support the blunt join of AADN04000419.1/AADN04000013.1 on Galgal5.0 chr.12.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-12-23T19:31:01.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Galgal5.0</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="Gallus_gallus-5.0" gb_asm_acc="GCA_000002315.3" ref_asm_acc="GCF_000002315.4" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM000104.4" ref_acc="NC_006099.4" type="CHROMOSOME">12</mapSequence>
+        <start>2010181</start>
+        <stop>5647133</stop>
+        <quality>
+          <version_mapped acc="AADN04000419">1</version_mapped>
+          <version_mapped acc="AADN04000013">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Gap</type>
+    <key>MG-100</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC148114.8</accession1>
+    <accession2>AC148114.8</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 72139 (2610044O15Rik), missing in assembly</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>2610044O15Rik (GeneID: 72139, NM_153780.1) is missing from the assembly; it&apos;s assignment  to chr.17 may be questionable</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:02.000-0400</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>AC239880.3 (RP24-122D14), picked on the end of chrom. 8, fully represents NM_153780.1</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>129056507</start>
+        <stop>129199008</stop>
+        <quality>
+          <version_mapped acc="AC148114">8</version_mapped>
+          <version_mapped acc="AC148114">8</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>131580407</start>
+        <stop>131722908</stop>
+        <quality>
+          <version_mapped acc="AC148114">8</version_mapped>
+          <version_mapped acc="AC148114">8</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-121</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13240 (Defcr6), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>This RefSeq represents sequence from strain &quot;129&quot;.</status_text>
+    <description>Defcr6 (NM_007852.1) is missing from the current assembly (Build 37).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-10-01T02:35:06.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-152</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13223 (Defcr-rs4), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>This RefSeq represents sequence from strain C3H/HeN.</status_text>
+    <description>NM_001005418.1 is not represented in the current reference assembly.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-09-30T02:35:08.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-158</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC140205.2</accession1>
+    <accession2>AC140205.2</accession2>
+    <reportType>Vega Report</reportType>
+    <summary>Defb33 and other defensin (pseudo)genes missing after assembly change removed AC140205.2.</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Defb33 and other defensin (pseudo)genes missing after assembly change removed AC140205.2.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:08.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AC140205.2 has been reintroduced into the TPF.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>20812179</start>
+        <stop>20948991</stop>
+        <quality>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456222.1" ref_acc="NT_166309.1" type="UNLOC_SCAFFOLD">8</mapSequence>
+        <start>1</start>
+        <stop>140215</stop>
+        <quality>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-190</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC162446.2</accession1>
+    <accession2>AC162446.2</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 65972 (Ifi30), poor quality (includes component misassembly)</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>PCR will be performed on C57BL/6 genomic DNA at the location of the discrepancy.</status_text>
+    <description>Single nt in/del in the alignment of the RefSeq  NM_023065.3 to genomic component AC162446.2.</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:07.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>70673831</start>
+        <stop>70845694</stop>
+        <quality>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>73197730</start>
+        <stop>73369593</stop>
+        <quality>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-202</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC107780.12</accession1>
+    <accession2>AC107780.12</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 76687 (Spcs3), poor quality (includes component misassembly)</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Single nt in/del in the alignment of the RefSeq NM_029701.1 to genomic component AC107780.12.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2010-01-12T10:41:19.000-0500</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Switchpoints have been curated to use the sequence of AC102933.6, which agrees with the transcript, through this region of overlap.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>54308314</start>
+        <stop>54514573</stop>
+        <quality>
+          <version_mapped acc="AC107780">12</version_mapped>
+          <version_mapped acc="AC107780">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>55393668</start>
+        <stop>55624256</stop>
+        <quality>
+          <version_mapped acc="AC107780">12</version_mapped>
+          <version_mapped acc="AC107780">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-26</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13222 (Defcr-rs2), many placements, none good</summary>
+    <status>Under Review</status>
+    <status_text>This RefSeq represents sequence from an outbred Swiss albino strain.</status_text>
+    <description>GeneID: 13222 (Defcr-rs2) aligns to multiple sites with reduced % ID, suggesting this gene may not be represented in the current assembly (Build 37).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:10:00.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-28</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13226 (Defcr-rs7), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>This RefSeq represents sequence from strain &quot;129&quot;</status_text>
+    <description>Defcr-rs7 (GeneID: 13226) is missing from reference chr. 8</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:09:59.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-3161</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13216 (Defa1), many placements, none good</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>NM_010031.2 aligns to many sites with a reduced % ID, suggesting that this gene may not be represented in the current reference assembly.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-09-30T02:35:07.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Path Problem</type>
+    <key>MG-3225</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC121985.3</accession1>
+    <accession2>AC162949.7</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13884 (Es1), missed join</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>The alignments of the first exon of Es1 (Gene ID: 13884) may suggest a possible false duplication.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:04.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>93042581</start>
+        <stop>93357132</stop>
+        <quality>
+          <version_mapped acc="AC121985">3</version_mapped>
+          <version_mapped acc="AC162949">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>95566480</start>
+        <stop>95881031</stop>
+        <quality>
+          <version_mapped acc="AC121985">3</version_mapped>
+          <version_mapped acc="AC162949">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3610</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC148089.8</accession1>
+    <accession2>AC152164.15</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Type 2 Gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a type 2 reference assembly gap present between components AC148089.8 and AC152164.15</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:09.000-0400</update>
+    <resolution>GRC-Gap Update</resolution>
+    <resolution_text>AC168205.7 and AC241392.3, which overlap with each other but with neither of the gap flanking clones, were placed into the middle of this gap.  Further gap closure efforts will be tracked in MG-4156 and MG-4157.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>19678046</start>
+        <stop>20443135</stop>
+        <quality>
+          <version_mapped acc="AC148089">8</version_mapped>
+          <version_mapped acc="AC152164">15</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>19678046</start>
+        <stop>20038713</stop>
+        <quality>
+          <version_mapped acc="AC148089">8</version_mapped>
+          <version_mapped acc="AC152164">15</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3611</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC152164.15</accession1>
+    <accession2>AC161189.12</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a reference assembly gap present between components AC152164.15 and AC140205.2</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:04.000-0400</update>
+    <resolution>GRC-Gap Update</resolution>
+    <resolution_text>AC240744.3 was sequenced and placed into the middle of this gap, and AC140205.2 was added to the right side of this gap for GRCm38.  Further gap closure efforts will be tracked in MG-4158 and MG-4159.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>20257551</start>
+        <stop>21077882</stop>
+        <quality>
+          <version_mapped acc="AC152164">15</version_mapped>
+          <version_mapped acc="AC161189">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>19853129</start>
+        <stop>22217561</stop>
+        <quality>
+          <version_mapped acc="AC152164">15</version_mapped>
+          <version_mapped acc="AC161189">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3612</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC129174.3</accession1>
+    <accession2>AC133094.4</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Type 2 Gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a type 2 reference assembly gap present between components AC129174.3 and AC133094.4</description>
+    <experiment_type>Clone Sequencing</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-06-15T10:26:02.000-0400</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>RP23-16O24 AC240396.3 and CH36-223O13 AC239604.3 have been selected, sequenced, and submitted, and they close this gap.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>21196977</start>
+        <stop>21619175</stop>
+        <quality>
+          <version_mapped acc="AC129174">3</version_mapped>
+          <version_mapped acc="AC133094">4</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>22336656</start>
+        <stop>22729647</stop>
+        <quality>
+          <version_mapped acc="AC129174">3</version_mapped>
+          <version_mapped acc="AC133094">4</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3613</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC168310.6</accession1>
+    <accession2>AC171318.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Type 2 Gap</summary>
+    <status>Under Review</status>
+    <status_text>No picks are currently available for this gap.</status_text>
+    <description>There is a type 2 reference assembly gap present between components AC168310.6 and AC171318.3</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-02-23T14:43:42.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>33974437</start>
+        <stop>34079783</stop>
+        <quality>
+          <version_mapped acc="AC168310">6</version_mapped>
+          <version_mapped acc="AC171318">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>35084909</start>
+        <stop>35142837</stop>
+        <quality>
+          <version_mapped acc="AC168310">6</version_mapped>
+          <version_mapped acc="AC171318">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3614</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC168314.2</accession1>
+    <accession2>AC174643.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Under Review</status>
+    <status_text>No picks are currently available for this gap.</status_text>
+    <description>There is a reference assembly gap present between components AC168314.2 and AC174643.3</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:06.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>38999915</start>
+        <stop>39352959</stop>
+        <quality>
+          <version_mapped acc="AC168314">2</version_mapped>
+          <version_mapped acc="AC174643">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>40062969</start>
+        <stop>40438313</stop>
+        <quality>
+          <version_mapped acc="AC168314">2</version_mapped>
+          <version_mapped acc="AC174643">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3615</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC164586.7</accession1>
+    <accession2>AC148768.16</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a reference assembly gap present between components AC164586.7 and AC148768.16</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:06.000-0400</update>
+    <resolution>GRC-Gap Update</resolution>
+    <resolution_text>AC242883.2 was sequenced and extends into this gap for GRCm38.  Further gap closure efforts will be tracked in MG-4165.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>55056749</start>
+        <stop>55587323</stop>
+        <quality>
+          <version_mapped acc="AC164586">7</version_mapped>
+          <version_mapped acc="AC148768">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>56142102</start>
+        <stop>58066120</stop>
+        <quality>
+          <version_mapped acc="AC164586">7</version_mapped>
+          <version_mapped acc="AC148768">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3616</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC140351.2</accession1>
+    <accession2>AC099723.16</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is a reference assembly gap present between components AC140351.2 and AC099723.16</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:05.000-0400</update>
+    <resolution>GRC-Gap Update</resolution>
+    <resolution_text>AC242529.3 has been sequenced and extends into this gap for GRCm38.  Further gap closure efforts will be tracked in MG-4153.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>64777896</start>
+        <stop>64997694</stop>
+        <quality>
+          <version_mapped acc="AC140351">2</version_mapped>
+          <version_mapped acc="AC099723">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>67256693</start>
+        <stop>67521593</stop>
+        <quality>
+          <version_mapped acc="AC140351">2</version_mapped>
+          <version_mapped acc="AC099723">16</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-3617</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC182435.3</accession1>
+    <accession2>AC171917.14</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Under Review</status>
+    <status_text>No picks are currently available for this gap.</status_text>
+    <description>There is a reference assembly gap present between components AC182435.3 and AC171917.14</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-11-12T11:01:37.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>72579549</start>
+        <stop>72862283</stop>
+        <quality>
+          <version_mapped acc="AC182435">3</version_mapped>
+          <version_mapped acc="AC171917">14</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>75103448</start>
+        <stop>75386182</stop>
+        <quality>
+          <version_mapped acc="AC182435">3</version_mapped>
+          <version_mapped acc="AC171917">14</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3665</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC121952.4</accession1>
+    <accession2>AC121952.4</accession2>
+    <reportType>User Report</reportType>
+    <summary>Possible sequence problem in a tandem region with components potentially spanning chromosomes 8 and 5</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>PCR will be performed on C57BL/6 genomic DNA in the region of the discrepancies.</status_text>
+    <description>Potential tandem sequence missassembly in a single clone on Chromosome 8 (AC121952.4) flagged by ESTs during annotation of Cmtm1.</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-02-27T11:36:48.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>104308408</start>
+        <stop>104407027</stop>
+        <quality>
+          <version_mapped acc="AC121952">4</version_mapped>
+          <version_mapped acc="AC121952">4</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>106832308</start>
+        <stop>106930927</stop>
+        <quality>
+          <version_mapped acc="AC121952">4</version_mapped>
+          <version_mapped acc="AC121952">4</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3751</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC162446.2</accession1>
+    <accession2>AC162446.2</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 19339 (Rab3a), poor quality (includes component misassembly)</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>PCR will be performed on C57BL/6 genomic DNA at the location of the discrepancy.</status_text>
+    <description>Alignment of NM_001166399.1 suggests that there is an extra base in the reference which may cause a non-consensus splice site.</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:02.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>70673831</start>
+        <stop>70845694</stop>
+        <quality>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>73197730</start>
+        <stop>73369593</stop>
+        <quality>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <version_mapped acc="AC162446">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3762</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC140205.2</accession1>
+    <accession2>AC140205.2</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Should Mm37 unlocalized contig NT_166309 be retained in future assemblies?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine evidence for retaining NT_166309 in future assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:03.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AC140205.2 is now on the chromosome 8 TPF v.8 extending from AC161189.12</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>20812179</start>
+        <stop>20948991</stop>
+        <quality>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456222.1" ref_acc="NT_166309.1" type="UNLOC_SCAFFOLD">8</mapSequence>
+        <start>1</start>
+        <stop>140215</stop>
+        <quality>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3763</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC168060.4</accession1>
+    <accession2>AC168060.4</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Should Mm37 unlocalized contig NT_166310 be retained in future assemblies?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine evidence for retaining NT_166310 in future assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:05:25.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>AC168060.4 is redundant with reference components AC139158.3 - AL672234.27 - AL731650.26</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>124989914</start>
+        <stop>125166553</stop>
+        <quality>
+          <version_mapped acc="AC168060">4</version_mapped>
+          <version_mapped acc="AC168060">4</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456223.1" ref_acc="NT_166310.1" type="UNLOC_SCAFFOLD">8</mapSequence>
+        <start>1</start>
+        <stop>177422</stop>
+        <quality>
+          <version_mapped acc="AC168060">4</version_mapped>
+          <version_mapped acc="AC168060">4</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Localization Problem</type>
+    <key>MG-3764</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC168205.7</accession1>
+    <accession2>AC168205.7</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Should Mm37 unlocalized contig NT_166311 be retained in future assemblies?</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Determine evidence for retaining NT_166311 in future assemblies.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:03.000-0400</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>NT_166311 (component AC168205.7) has been placed on the chr. 8 TPF extending from AC241392.3</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>19903129</start>
+        <stop>20078123</stop>
+        <quality>
+          <version_mapped acc="AC168205">7</version_mapped>
+          <version_mapped acc="AC168205">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="GL456224.1" ref_acc="NT_166311.1" type="UNLOC_SCAFFOLD">8</mapSequence>
+        <start>1</start>
+        <stop>174995</stop>
+        <quality>
+          <version_mapped acc="AC168205">7</version_mapped>
+          <version_mapped acc="AC168205">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3858</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC108436.5</accession1>
+    <accession2>AC108436.5</accession2>
+    <reportType>MGP-SNP</reportType>
+    <summary>Possible single nucleotide error in reference component AC108436.5</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>PCR will be performed on C57BL/6 genomic DNA at the location of the discrepancy.</status_text>
+    <description>SNP analysis of the Mouse Genomes Project suggests a possible single nucleotide error in reference clone AC108436.5</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-02-22T15:32:13.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>117087857</start>
+        <stop>117130089</stop>
+        <quality>
+          <version_mapped acc="AC108436">5</version_mapped>
+          <version_mapped acc="AC108436">5</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>119611757</start>
+        <stop>119653989</stop>
+        <quality>
+          <version_mapped acc="AC108436">5</version_mapped>
+          <version_mapped acc="AC108436">5</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3859</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC103360.9</accession1>
+    <accession2>AC103360.9</accession2>
+    <reportType>MGP-SNP</reportType>
+    <summary>Possible single nucleotide error in reference component  AC103360.9</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>PCR will be performed on C57BL/6 genomic DNA at the location of the discrepancy.</status_text>
+    <description>SNP analysis of the Mouse Genomes Project suggests a possible single nucleotide error in reference clone AC103360.9</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-02-22T15:32:33.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>120550782</start>
+        <stop>120700713</stop>
+        <quality>
+          <version_mapped acc="AC103360">9</version_mapped>
+          <version_mapped acc="AC103360">9</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>123074682</start>
+        <stop>123224613</stop>
+        <quality>
+          <version_mapped acc="AC103360">9</version_mapped>
+          <version_mapped acc="AC103360">9</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-3934</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC162858.6</accession1>
+    <accession2>AC162858.6</accession2>
+    <reportType>Genomic Alignment- single clone</reportType>
+    <summary>Possible sequence error</summary>
+    <status>Awaiting Exptl Data</status>
+    <status_text>PCR will be performed on C57BL/6 genomic DNA at the location of the discrepancy.</status_text>
+    <description>Possible nt insertion in genomic sequence for Pkd1l2 or a non-canonical splice.</description>
+    <experiment_type>PCR</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-02-22T15:32:51.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>116941441</start>
+        <stop>117087856</stop>
+        <quality>
+          <version_mapped acc="AC162858">6</version_mapped>
+          <version_mapped acc="AC162858">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>119465341</start>
+        <stop>119611756</stop>
+        <quality>
+          <version_mapped acc="AC162858">6</version_mapped>
+          <version_mapped acc="AC162858">6</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-4013</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC165441.3</accession1>
+    <accession2>AC165441.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>AC165441.3 (RP24-548F24) contains contamination</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is an IS10 element and one copy of the flanking target site duplication (GATGAAGCA) in WUGSC clone AC165441.3.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2011-07-15T10:10:49.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>This contamination has been excised and the clone resubmitted as AC165441.4</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>43910617</start>
+        <stop>44145092</stop>
+        <quality>
+          <version_mapped acc="AC165441">3</version_mapped>
+          <version_mapped acc="AC165441">3</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>45095057</start>
+        <stop>45230446</stop>
+        <quality>
+          <version_mapped acc="AC165441">3</version_mapped>
+          <version_mapped acc="AC165441">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4019</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC183499.2</accession1>
+    <accession2>AC183499.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Pre-Telomere Gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Chr. 8 sequence does not extend into the telomere in Build 37.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:01.000-0400</update>
+    <resolution>GRC Resolved by Experimental Method</resolution>
+    <resolution_text>AC239880.3 and AC225376.3 have been sequenced and extend into the Chr. 8 telomeric repeat.  AC183499.2  has been removed as redundant.</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>129174651</start>
+        <stop>129214971</stop>
+        <quality>
+          <version_mapped acc="AC183499">2</version_mapped>
+          <version_mapped acc="AC183499">2</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>131722909</start>
+        <stop>131738871</stop>
+        <quality>
+          <version_mapped acc="AC183499">2</version_mapped>
+          <version_mapped acc="AC183499">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4153</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC140351.2</accession1>
+    <accession2>AC242529.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>There is a reference assembly gap present between components AC140351.2 and AC242529.3.  This ticket tracks the continued effort to close the gap reported in MG-3616.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:09.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>64777896</start>
+        <stop>64914107</stop>
+        <quality>
+          <version_mapped acc="AC140351">2</version_mapped>
+          <version_mapped acc="AC242529">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4156</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC148089.8</accession1>
+    <accession2>AC168205.7</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>There is a type 2 reference assembly gap present between components AC148089.8 and AC168205.7.  This is one of the tickets that will track the continued effort to close the gap reported in MG-3610.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:10.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>19678046</start>
+        <stop>20078123</stop>
+        <quality>
+          <version_mapped acc="AC148089">8</version_mapped>
+          <version_mapped acc="AC168205">7</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4157</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC241392.3</accession1>
+    <accession2>AC152164.15</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>There is a type 2 reference assembly gap present between components AC241392.3 and AC152164.15.  This is one of the tickets that will track the continued effort to close the gap reported in MG-3610.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:10.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>20078124</start>
+        <stop>20443135</stop>
+        <quality>
+          <version_mapped acc="AC241392">3</version_mapped>
+          <version_mapped acc="AC152164">15</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4158</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC152164.15</accession1>
+    <accession2>AC240744.3</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>There is a reference assembly gap present between components AC152164.15 and AC240744.3.  This is one of the tickets that will track the continued effort to close the gap reported in MG-3611.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:11.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>20257551</start>
+        <stop>20712178</stop>
+        <quality>
+          <version_mapped acc="AC152164">15</version_mapped>
+          <version_mapped acc="AC240744">3</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4159</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC240744.3</accession1>
+    <accession2>AC140205.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>There is a reference assembly gap present between components AC240744.3 and AC140205.2.  This is one of the tickets that will track the continued effort to close the gap reported in MG-3611.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:11.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>20493136</start>
+        <stop>20948991</stop>
+        <quality>
+          <version_mapped acc="AC240744">3</version_mapped>
+          <version_mapped acc="AC140205">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-4160</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC164586.7</accession1>
+    <accession2>AC242883.2</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chr. 8 Reference Assembly Gap</summary>
+    <status>Stalled</status>
+    <status_text>The gap flanking components each terminate in unresolved tandem repeat. We are unable to sequence through this repeat with current technologies and have exhausted all other options. Efforts to close this gap are now stalled.</status_text>
+    <description>There is a reference assembly gap present between components AC164586.7 and AC242883.2.  This ticket  is a continuation of MG-3615.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:05.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>GRCm38</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>55056749</start>
+        <stop>55547429</stop>
+        <quality>
+          <version_mapped acc="AC164586">7</version_mapped>
+          <version_mapped acc="AC242883">2</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Variation</type>
+    <key>MG-4244</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13238 (Defa4), missing in assembly</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>In progress</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-09T15:54:23.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-52</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13219 (Defcr-rs10), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>This RefSeq represents sequence from an unidentified strain.</status_text>
+    <description>GeneID: 13219 (Defcr-rs10) is missing from the current assembly (Build 37).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:10:03.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>MGSCv37</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Clone Problem</type>
+    <key>MG-62</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC162945.5</accession1>
+    <accession2>AC162945.5</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 67935 (Ces7), poor quality (includes component misassembly)</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>The alignment of RefSeq NM_001003951.1 (Ces7) to the reference suggests a rearrangement in component AC162945.5</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:01.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>The two reference components, AC162945.5 and AC124591.4, were found to have an inversion between two repeat elements causing this alignment problem.  They have now been fixed and resubmitted.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>93294120</start>
+        <stop>93515946</stop>
+        <quality>
+          <version_mapped acc="AC162945">5</version_mapped>
+          <version_mapped acc="AC162945">5</version_mapped>
+          <method_acc1>alignment</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>95881032</start>
+        <stop>96039846</stop>
+        <quality>
+          <version_mapped acc="AC162945">5</version_mapped>
+          <version_mapped acc="AC162945">5</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Missing sequence</type>
+    <key>MG-63</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 13221 (Defcr-rs12), missing in assembly</summary>
+    <status>Under Review</status>
+    <status_text>This RefSeq represents sequence from strain &quot;129&quot;.</status_text>
+    <description>GeneID: 13221 (Defcr-rs12) is missing from the current assembly (Build 37).</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2012-04-26T17:10:02.000-0400</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-77</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC140351.2</accession1>
+    <accession2>CAAA01063301.1</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 77113 (Klhl2), assembly gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is an assembly gap between AC140351.2 and CAAA01063301.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:07.000-0400</update>
+    <resolution>GRC-Duplicate</resolution>
+    <resolution_text>Efforts to close this gap will be tracked in MG-4153.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>64777896</start>
+        <stop>64818973</stop>
+        <quality>
+          <version_mapped acc="AC140351">2</version_mapped>
+          <version_mapped acc="CAAA01063301">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>alignment</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>67256693</start>
+        <stop>67336823</stop>
+        <quality>
+          <version_mapped acc="AC140351">2</version_mapped>
+          <version_mapped acc="CAAA01063301">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>MG-78</key>
+    <assignedChr>chr8</assignedChr>
+    <accession1>AC168314.2</accession1>
+    <accession2>CAAA01027656.1</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 80286 (Tusc3), assembly gap</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>There is an assembly gap between AC168314.2 and CAAA01027656.1</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-07-23T17:36:07.000-0400</update>
+    <resolution>GRC-Duplicate</resolution>
+    <resolution_text>Efforts to close this gap will be tracked in linked ticket MG-3614.</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>GRCm38</fixVersion>
+    <location>
+      <position name="GRCm38.p4" gb_asm_acc="GCA_000001635.6" ref_asm_acc="GCF_000001635.24" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.2" ref_acc="NC_000074.6" type="CHROMOSOME">8</mapSequence>
+        <start>38999915</start>
+        <stop>39155164</stop>
+        <quality>
+          <version_mapped acc="AC168314">2</version_mapped>
+          <version_mapped acc="CAAA01027656">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="MGSCv37" gb_asm_acc="GCA_000001635.1" ref_asm_acc="GCF_000001635.18" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM001001.1" ref_acc="NC_000074.5" type="CHROMOSOME">8</mapSequence>
+        <start>40062969</start>
+        <stop>40240518</stop>
+        <quality>
+          <version_mapped acc="AC168314">2</version_mapped>
+          <version_mapped acc="CAAA01027656">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>Path Problem</type>
+    <key>GG-5</key>
+    <assignedChr>chr6</assignedChr>
+    <accession1>AC147717.1</accession1>
+    <accession2>AADN04000733.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>AADN04000733.1 is in the incorrect orientation</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>AADN04000733.1 is incorrectly oriented in the Galgal5.0 assembly.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2016-01-11T00:30:11.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>Galgal5.0</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="Gallus_gallus-5.0" gb_asm_acc="GCA_000002315.3" ref_asm_acc="GCF_000002315.4" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM000098.4" ref_acc="NC_006093.4" type="CHROMOSOME">6</mapSequence>
+        <start>10900837</start>
+        <stop>11101356</stop>
+        <quality>
+          <version_mapped acc="AC147717">1</version_mapped>
+          <version_mapped acc="AADN04000733">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>

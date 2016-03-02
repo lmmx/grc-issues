@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenomeIssues xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/xmlschema/JiraIssues.xsd">
+  <issue>
+    <type>GRC Housekeeping</type>
+    <key>ZG-2914</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>NONE</accession1>
+    <accession2>NONE</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Telomeric gaps are missing from all zebrafish chromosomes</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Telomeric gaps are missing from all zebrafish chromosomes</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2015-03-30T13:08:35.000-0400</update>
+    <resolution>GRC Resolved by Electronic Means</resolution>
+    <resolution_text>Telomeres and type-3 gaps between flanking components have been added to either end of each zebrafish chromosome.</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>GRCz10</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>NOT MAPPED</mapStatus>
+        <mapSequence gb_acc="na" ref_acc="na" type="na">na</mapSequence>
+        <start>na</start>
+        <stop>na</stop>
+        <quality>
+          <version_mapped acc="na">na</version_mapped>
+          <version_mapped acc="na">na</version_mapped>
+          <method_acc1>na</method_acc1>
+          <method_acc2>na</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>ZG-5117</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>CU914629.5</accession1>
+    <accession2>BX248521.12</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Chromosome 11 assembly gap (CU914629.5 - BX248521.12)</summary>
+    <status>Resolved</status>
+    <status_text>none</status_text>
+    <description>Assembly gap between CU914629.5 (CH1073-299I24) and BX248521.12 (CH211-243C14)</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2013-01-30T05:20:30.000-0500</update>
+    <resolution>GRC-Gap Update</resolution>
+    <resolution_text>CU914629.5 looks like it belongs on Chromosome 21, based on the self comp track. It is a singleton on Chromosome 11 and there is no evidence that I am aware of that places it here. I&apos;ll remove it from the TPF. It&apos;s redundant on 21 under BX649250.6. The gap that this ticket refers to will no longer exist. Instead the gap will be between BX571969.5 and BX248521.12. The ticket ZG-5116 will be updated to reflect this. This ticket will be closed.</resolution_text>
+    <affectVersion>Zv9</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CU651614.3" ref_acc="NC_007122.5" type="CHROMOSOME">11</mapSequence>
+        <start>37799117</start>
+        <stop>37983811</stop>
+        <quality>
+          <version_mapped acc="CU914629">5</version_mapped>
+          <version_mapped acc="BX248521">12</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>GRC Housekeeping</type>
+    <key>ZG-7003</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>FP236459.4</accession1>
+    <accession2>CABZ01062885.1</accession2>
+    <reportType>TPF Analysis</reportType>
+    <summary>Clones listed in contig building report as contained within WGS elements</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>Many of the GRCz10 contig building errors are &quot;unmarked contained&quot; errors where the problem is that a clone is detected as being &quot;contained&quot; within a WGS element.</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2014-12-04T04:05:55.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CM002886.1" ref_acc="NC_007113.6" type="CHROMOSOME">2</mapSequence>
+        <start>17231950</start>
+        <stop>17257288</stop>
+        <quality>
+          <version_mapped acc="FP236459">4</version_mapped>
+          <version_mapped acc="CABZ01062885">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CU651605.3" ref_acc="NC_007113.5" type="CHROMOSOME">2</mapSequence>
+        <start>16786594</start>
+        <stop>16810032</stop>
+        <quality>
+          <version_mapped acc="FP236459">4</version_mapped>
+          <version_mapped acc="CABZ01062885">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+  <issue>
+    <type>Gap</type>
+    <key>ZG-7108</key>
+    <assignedChr>chrNA</assignedChr>
+    <accession1>CABZ01075268.1</accession1>
+    <accession2>CABZ01075269.1</accession2>
+    <reportType>RefSeq Report</reportType>
+    <summary>GeneID: 114367 (nots), missed join</summary>
+    <status>Open</status>
+    <status_text>none</status_text>
+    <description>In progress</description>
+    <experiment_type>na</experiment_type>
+    <external_info_type>na</external_info_type>
+    <update>2016-02-02T09:23:16.000-0500</update>
+    <resolution>Unresolved</resolution>
+    <resolution_text>na</resolution_text>
+    <affectVersion>na</affectVersion>
+    <fixVersion>na</fixVersion>
+    <location>
+      <position name="GRCz10" gb_asm_acc="GCA_000002035.3" ref_asm_acc="GCF_000002035.5" asm_status="latest">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="KN149830.1" ref_acc="NW_008805374.1" type="UNLOC_SCAFFOLD">Un</mapSequence>
+        <start>1</start>
+        <stop>22812</stop>
+        <quality>
+          <version_mapped acc="CABZ01075268">1</version_mapped>
+          <version_mapped acc="CABZ01075269">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+      <position name="Zv9" gb_asm_acc="GCA_000002035.2" ref_asm_acc="GCF_000002035.4" asm_status="old">
+        <mapStatus>MAPPED</mapStatus>
+        <mapSequence gb_acc="CU651617.3" ref_acc="NC_007125.5" type="CHROMOSOME">14</mapSequence>
+        <start>37885755</start>
+        <stop>37908566</stop>
+        <quality>
+          <version_mapped acc="CABZ01075268">1</version_mapped>
+          <version_mapped acc="CABZ01075269">1</version_mapped>
+          <method_acc1>component</method_acc1>
+          <method_acc2>component</method_acc2>
+        </quality>
+      </position>
+    </location>
+  </issue>
+</GenomeIssues>
