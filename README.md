@@ -1,4 +1,4 @@
-# hg-issues
+# grc-issues
 
 Tabulated mappings of human genome assembly issues to their location (and all other associated information from NCBI).
 
