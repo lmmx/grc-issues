@@ -155,14 +155,14 @@ func main() {
 
 		chromosome = strings.TrimPrefix(issue.Chromosome, "chr")
 
-		fmt.Printf("%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t",
+		fmt.Printf("%s\t%s\t%s\t%s\t%s\t%s\t%#v\t%s\t",
 			issue.IssueType,
 			issue.IssueID,
 			chromosome,
 			issue.Accession1,
 			issue.Accession2,
 			issue.ReportType,
-			issue.Summary,
+			issue.Summary, // escape and quote
 			issue.Status)
 
 		fmt.Printf("%#v\t%#v\t",

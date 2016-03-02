@@ -38,4 +38,4 @@ As of 1st March 2016:
 Tables contain data 'as-is' from NCBI, except:
 * chromosome names have the leading 'chr' prefix removed where present. chrNA therefore became NA
 * empty fields relating to patch metadata were filled with 'na' (in-keeping with the other NA values), since it was a nillable field in the NCBI XML schema.
-* Free text fields (`<description>`, `<status_text>`, and `<resolution_text>` tags) were parsed to Unicode, making them readable, but left quoted, with newlines unescaped (`like\nthis`). Other columns are not quoted (and do not contain HTML-encoded characters).
+* Free text fields (`<summary>`, `<description>`, `<status_text>`, and `<resolution_text>` tags) were parsed to Unicode, making them readable, but left quoted, with newlines unescaped (`like\nthis`). Other columns are not quoted (and do not contain HTML-encoded characters).
