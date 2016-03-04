@@ -1974,11 +1974,11 @@
     <reportType>End Sequence Profile</reportType>
     <summary>Hsa5- RUFY1/LOC389352 problem region</summary>
     <status>Awaiting Exptl Data</status>
-    <status_text>We will sequence both CH17-213J18 and CH17-18E24 to correct this inversion</status_text>
+    <status_text>We will sequence CH17-213J18 to correct this inversion</status_text>
     <description>ESP analysis suggests the reference chromosome contains an inversion between AC136604.2 and AC113426.2</description>
     <experiment_type>Clone Sequencing</experiment_type>
     <external_info_type>na</external_info_type>
-    <update>2015-07-08T11:28:21.000-0400</update>
+    <update>2016-03-02T09:06:04.000-0500</update>
     <resolution>Unresolved</resolution>
     <resolution_text>na</resolution_text>
     <affectVersion>na</affectVersion>

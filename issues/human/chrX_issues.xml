@@ -1764,7 +1764,7 @@
     <description>An RP11 clone pathway is being sequenced for an ampliconic region on Chromosome X  between components AL590325.10 and AL590282.6 of GRCh37.</description>
     <experiment_type>na</experiment_type>
     <external_info_type>na</external_info_type>
-    <update>2014-10-01T15:01:28.000-0400</update>
+    <update>2016-03-02T06:49:01.000-0500</update>
     <resolution>GRC Resolved by Experimental Method</resolution>
     <resolution_text>This new TPF has been uploaded to the patches TPF and chromosome TPF.</resolution_text>
     <AltPatchType>GRCh37:FIX</AltPatchType>
@@ -1823,7 +1823,7 @@
     <description>An RP11 clone pathway is being sequenced for an ampliconic region on Chromosome X  between components AL391380.14 and AL953870.2 of GRCh37.</description>
     <experiment_type>na</experiment_type>
     <external_info_type>na</external_info_type>
-    <update>2016-01-12T08:01:24.000-0500</update>
+    <update>2016-03-02T06:48:41.000-0500</update>
     <resolution>GRC Resolved by Experimental Method</resolution>
     <resolution_text>This new TPF has been uploaded to the patches TPF and chromosome TPF. As a result of the updated TPF, parts of the assembly within this region now appear as inverted when compared against previous assemblies.</resolution_text>
     <AltPatchType>GRCh37:FIX</AltPatchType>

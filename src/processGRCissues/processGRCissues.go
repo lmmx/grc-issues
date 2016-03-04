@@ -61,12 +61,12 @@ type PositionInfo struct {
 
 type MappedSeqInfo struct {
 	GenBankID    string `xml:"gb_acc,attr"`
-	RefSeqID     string `xml:"ref_acc,atr"`
+	RefSeqID     string `xml:"ref_acc,attr"`
 	SequenceType string `xml:"type,attr"`
 }
 
 type MappingQuality struct {
-	MappedVersion    []MappedVersion `xml:"version_mapped"`
+	MappedVersions   []MappedVersion `xml:"version_mapped"`
 	Accession1Method string          `xml:"method_acc1"`
 	Accession2Method string          `xml:"method_acc2"`
 }
@@ -104,8 +104,45 @@ func PrintHeader() {
 		"Affected_Version",
 		"Patch_GenBank_Accession",
 		"Patch_RefSeq_Accession",
-		"Patch_Region_Name"},
+		"Patch_Region_Name",
+		"Shortform_Location_Information"},
 		"\t"))
+}
+
+func CondensePositionVersions(versions []MappedVersion) string {
+	var version_list []string
+	for _, v := range versions {
+		v_str := strings.Join([]string{
+			v.MappedVersionNumber,
+			v.MappedVersionAccession},
+			":@@@:")
+		version_list = append(version_list, v_str)
+	}
+	return strings.Join(version_list, ":::")
+}
+
+func CondensePositionFields(positions []PositionInfo) string {
+	var position_list []string
+	for _, p := range positions {
+		position_versions := CondensePositionVersions(p.MappingQuality.MappedVersions)
+		p_str := strings.Join([]string{
+			p.SuccessfullyMapped,
+			p.MappedSeqInfo.GenBankID,
+			p.MappedSeqInfo.RefSeqID,
+			p.MappedSeqInfo.SequenceType,
+			p.ChrStart,
+			p.ChrEnd,
+			position_versions,
+			p.MappingQuality.Accession1Method,
+			p.MappingQuality.Accession2Method,
+			p.AssemblyName,
+			p.GenBankAssemblyAcc,
+			p.RefSeqAssemblyAcc,
+			p.AssemblyStatus},
+			":@:")
+		position_list = append(position_list, p_str)
+	}
+	return strings.Join(position_list, "::@@::")
 }
 
 func main() {
@@ -154,28 +191,7 @@ func main() {
 	for _, issue := range l.IssueList {
 
 		chromosome = strings.TrimPrefix(issue.Chromosome, "chr")
-
-		fmt.Printf("%s\t%s\t%s\t%s\t%s\t%s\t%#v\t%s\t",
-			issue.IssueType,
-			issue.IssueID,
-			chromosome,
-			issue.Accession1,
-			issue.Accession2,
-			issue.ReportType,
-			issue.Summary, // escape and quote
-			issue.Status)
-
-		fmt.Printf("%#v\t%#v\t",
-			issue.StatusText,
-			issue.Description) // escape and quote
-
-		fmt.Printf("%s\t%s\t%s\t%s\t",
-			issue.ExperimentType,
-			issue.Update,
-			issue.ExtInfoType,
-			issue.Resolution)
-
-		fmt.Printf("%#v\t", issue.ResolutionText) // escape and quote
+		shortform_location := CondensePositionFields(issue.Location)
 
 		if issue.AltPatchType != "" {
 			patch_type = issue.AltPatchType
@@ -208,13 +224,39 @@ func main() {
 		} else {
 			region_name = "na"
 		}
+		if shortform_location == "" {
+			shortform_location = "na"
+		}
 
-		fmt.Printf("%s\t%s\t%s\t%s\t%s\t%s\n",
+		fmt.Printf("%s\t%s\t%s\t%s\t%s\t%s\t%#v\t%s\t",
+			issue.IssueType,
+			issue.IssueID,
+			chromosome,
+			issue.Accession1,
+			issue.Accession2,
+			issue.ReportType,
+			issue.Summary, // escape and quote
+			issue.Status)
+
+		fmt.Printf("%#v\t%#v\t",
+			issue.StatusText,
+			issue.Description) // escape and quote
+
+		fmt.Printf("%s\t%s\t%s\t%s\t",
+			issue.ExperimentType,
+			issue.Update,
+			issue.ExtInfoType,
+			issue.Resolution)
+
+		fmt.Printf("%#v\t", issue.ResolutionText) // escape and quote
+
+		fmt.Printf("%s\t%s\t%s\t%s\t%s\t%s\t%s\n",
 			patch_type,
 			fix_ver,
 			aff_ver,
 			gb_acc,
 			rs_acc,
-			region_name)
+			region_name,
+			shortform_location)
 	}
 }
