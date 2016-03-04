@@ -2,6 +2,11 @@
 
 Tabulated mappings of chicken, human, mouse, and zebrafish genome assembly issues (via [_Genome Reference Consortium_](http://www.ncbi.nlm.nih.gov/projects/genome/assembly/grc/)) to their location (and all other associated information from NCBI).
 
+* __Full tables__ (named `species.tsv`) representing the entire XML structure, with locations condensed into a single TSV column, see below; one issue per line. This is a valid TSV but cannot be processed directly with R using `read.table`, so 2 further derivative tables are provided.
+* __Summary tables__ (named `species_summary.tsv`), with only issue ID (`HG-1` etc.), chromosome (1-22, X, Y, NA, Un) and the patch GenBank accession; one issue per line.
+* __Location tables__ (named `species_locations.tsv`) with GenBank IDs in a separate column, useful for accession mapping; many-to-one with respect to issue keys to locations.
+  * `src/parse_shortform_locations.r` [littler](http://dirk.eddelbuettel.com/code/littler.html) script can be used to convert format from the main table.
+
 See also: [Ensembl assembly exceptions](https://github.com/lmmx/ensembl-assembly-exceptions), tabulated mappings of _H. sapiens_ and _M. musculus_ genome 'assembly exceptions' to their locations in core Ensembl database releases.
 
 ## Requirements
