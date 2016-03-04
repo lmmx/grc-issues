@@ -41,7 +41,7 @@ Tables contain data 'as-is' from NCBI, except:
 * Free text fields (`<summary>`, `<description>`, `<status_text>`, and `<resolution_text>` tags) were parsed to Unicode, making them readable, but left quoted, with newlines unescaped (`"like\nso"`). Other columns are not quoted (and do not contain HTML-encoded characters).
 * Not modified (unicode not escaped), but information in multiple `<position>` tags under each `<location>` tag is 'condensed' into a 'short format' given their multiple nature to make them suitable for representation in a single tab-separated value column for tables, as follows:
   * __`<position>` tag content for the same `<location>` tag (i.e. per issue) is joined on delimiter `::@@::`__
-  * __`<position>` child tag content for the same `<position>` tag is joined on delimiter `:@:`__, in the following order (listed as "field/variable name: `XML tag/attribute name`"):
+  * __`<position>` child tag content for the same `<position>` tag is joined on delimiter `:@:`__, in the following order (listed as "`field/variable name`: `XML tag/attribute name`"):
     * `SuccessfullyMapped`: `<mapStatus>`
     * `MappedSeqInfo.GenBankID`: `<mapSequence>`
     * `MappedSeqInfo.RefSeqID`: `<start>`
