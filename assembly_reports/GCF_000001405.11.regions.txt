@@ -1,0 +1,23 @@
+# Region Report
+# Assembly Name:  NCBI35
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      International Human Genome Sequencing Consortium
+# Date:           2004-8-24
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# RefSeq Assembly Accession: GCF_000001405.11 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## 	GCF_000001305.11	Primary Assembly
+## 	GCF_000000265.2	DR52
+## 	GCF_000000275.1	DR53
+#
+# Region-Name	Chromosome	Chromosome-Start	Chromosome-Stop	Scaffold-Role	Scaffold-GenBank-Accn	Scaffold-RefSeq-Accn	Assembly-Unit
+PAR#1	X	1	2692881	PAR	na	na	na
+PAR#2	X	154494748	154824264	PAR	na	na	na
+PAR#1	Y	1	2692881	PAR	na	na	na
+PAR#2	Y	57372175	57701691	PAR	na	na	na

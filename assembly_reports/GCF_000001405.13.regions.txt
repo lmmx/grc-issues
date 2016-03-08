@@ -1,0 +1,42 @@
+# Region Report
+# Assembly Name:  GRCh37
+# Description:    Genome Reference Consortium Human Build 37 (GRCh37)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2009-2-27
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.13 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+#
+# Region-Name	Chromosome	Chromosome-Start	Chromosome-Stop	Scaffold-Role	Scaffold-GenBank-Accn	Scaffold-RefSeq-Accn	Assembly-Unit
+UGT2B17	4	69170077	69878175	alt-scaffold	GL000257.1	NT_167250.1	ALT_REF_LOCI_8
+MHC	6	28477797	33448354	alt-scaffold	GL000250.1	NT_167244.1	ALT_REF_LOCI_1
+MHC	6	28477797	33448354	alt-scaffold	GL000251.1	NT_113891.2	ALT_REF_LOCI_2
+MHC	6	28477797	33448354	alt-scaffold	GL000252.1	NT_167245.1	ALT_REF_LOCI_3
+MHC	6	28477797	33448354	alt-scaffold	GL000253.1	NT_167246.1	ALT_REF_LOCI_4
+MHC	6	28477797	33448354	alt-scaffold	GL000254.1	NT_167247.1	ALT_REF_LOCI_5
+MHC	6	28477797	33448354	alt-scaffold	GL000255.1	NT_167248.1	ALT_REF_LOCI_6
+MHC	6	28477797	33448354	alt-scaffold	GL000256.1	NT_167249.1	ALT_REF_LOCI_7
+MAPT	17	43384864	44913631	alt-scaffold	GL000258.1	NT_167251.1	ALT_REF_LOCI_9
+PAR#1	X	60001	2699520	PAR	na	na	na
+PAR#2	X	154931044	155260560	PAR	na	na	na
+PAR#1	Y	10001	2649520	PAR	na	na	na
+PAR#2	Y	59034050	59363566	PAR	na	na	na

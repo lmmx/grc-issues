@@ -1,0 +1,3953 @@
+GCA_000001405.10.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p9
+# Description:    Genome Reference Consortium Human Build 37 patch release 9 (GRCh37.p9)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-7-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.10 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.9	GCF_000005045.8	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.11.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p10
+# Description:    Genome Reference Consortium Human Build 37 patch release 10 (GRCh37.p10)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-31
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.11 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.10	GCF_000005045.9	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.12.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p11
+# Description:    Genome Reference Consortium Human Build 37 patch release 11 (GRCh37.p11)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-12-18
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.12 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.23 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.11	GCF_000005045.10	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.13.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p12
+# Description:    Genome Reference Consortium Human Build 37 patch release 12 (GRCh37.p12)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-26
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.13 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.24 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.12	GCF_000005045.11	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.14.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p13
+# Description:    Genome Reference Consortium Human Build 37 patch release 13 (GRCh37.p13)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-6-28
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.14 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.25 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.13	GCF_000005045.12	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.15.regions.txt
+# Region Report
+# Assembly Name:  GRCh38
+# Description:    Genome Reference Consortium Human Build 38
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-12-17
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.15 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.26 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.16.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p1
+# Description:    Genome Reference Consortium Human Build 38 patch release 1 (GRCh38.p1)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-10-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.16 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.27 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.14	GCF_000005045.13	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.17.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p2
+# Description:    Genome Reference Consortium Human Build 38 patch release 2 (GRCh38.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-12-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.17 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.28 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.15	GCF_000005045.14	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.18.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p3
+# Description:    Genome Reference Consortium Human Build 38 patch release 3 (GRCh38.p3)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-4-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.18 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.29 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.16	GCF_000005045.15	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.19.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p4
+# Description:    Genome Reference Consortium Human Build 38 patch release 4 (GRCh38.p4)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-6-25
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.19 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.30 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.17	GCF_000005045.16	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.1.regions.txt
+# Region Report
+# Assembly Name:  GRCh37
+# Description:    Genome Reference Consortium Human Build 37 (GRCh37)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2009-2-27
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.13 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+#
+
+GCA_000001405.20.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p5
+# Description:    Genome Reference Consortium Human Build 38 patch release 5 (GRCh38.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-9-22
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.20 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.31 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.18	GCF_000005045.17	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.21.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p6
+# Description:    Genome Reference Consortium Human Build 38 patch release 6 (GRCh38.p6)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-12-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.21 (latest)
+# RefSeq Assembly Accession: GCF_000001405.32 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.19	GCF_000005045.18	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.2.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p1
+# Description:    Genome Reference Consortium Human Build 37 patch release 1 (GRCh37.p1)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2010-2-22
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.2 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.1		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+#
+
+GCA_000001405.3.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p2
+# Description:    Genome Reference Consortium Human Build 37 patch release 2 (GRCh37.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2010-8-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.14 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.2	GCF_000005045.1	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.4.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p3
+# Description:    Genome Reference Consortium Human Build 37 patch release 3 (GRCh37.p3)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-1-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.4 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.3		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+
+GCA_000001405.5.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p4
+# Description:    Genome Reference Consortium Human Build 37 patch release 4 (GRCh37.p4)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-3-29
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.5 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.4		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+
+GCA_000001405.6.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p5
+# Description:    Genome Reference Consortium Human Build 37 patch release 5 (GRCh37.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-6-24
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.6 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.17 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.5	GCF_000005045.4	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCA_000001405.7.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p6
+# Description:    Genome Reference Consortium Human Build 37 patch release 6 (GRCh37.p6)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-9-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.7 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.6		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+
+GCA_000001405.8.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p7
+# Description:    Genome Reference Consortium Human Build 37 patch release 7 (GRCh37.p7)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-1-25
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.8 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.7		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+
+GCA_000001405.9.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p8
+# Description:    Genome Reference Consortium Human Build 37 patch release 8 (GRCh37.p8)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-4-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.9 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.8		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+
+GCA_000001635.1.regions.txt
+# Region Report
+# Assembly Name:  MGSCv37
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2010-9-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.18 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.1	GCF_000000055.16	Primary Assembly (C57BL/6J)
+## GCA_000000415.1	GCF_000000415.1	129/J
+## GCA_000000435.1	GCF_000000435.2	129/Sv
+## GCA_000000395.1	GCF_000000395.3	129/SvEvTac
+## GCA_000000445.1	GCF_000000445.2	129/SvJ
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000000485.1	GCF_000000485.2	129S7/SvEv
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.1	GCF_000000335.8	Balb/c
+## GCA_000000465.1	GCF_000000465.2	Cast/Ei
+## GCA_000000355.1	GCF_000000355.8	NOD
+## GCA_000000505.1	GCF_000000505.1	Spret/Ei
+## GCA_000000385.1	GCF_000000385.9	unknown strain
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCA_000001635.2.regions.txt
+# Region Report
+# Assembly Name:  GRCm38
+# Description:    Genome Reference Consortium Mouse Build 38
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-1-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.2 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.20 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCA_000001635.3.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p1
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 1 (GRCm38.p1)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.1	GCF_000291555.1	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCA_000001635.4.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p2
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 2 (GRCm38.p2)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-7
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.4 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.2	GCF_000291555.2	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCA_000001635.5.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p3
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 3 (GRCm38.p3)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2014-3-20
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.5 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.23 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.3	GCF_000291555.3	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCA_000001635.6.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p4
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 4 (GRCm38.p4)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2015-3-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.6 (latest)
+# RefSeq Assembly Accession: GCF_000001635.24 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.4	GCF_000291555.4	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCA_000148765.2.regions.txt
+# Region Report
+# Assembly Name:  MalDomGD1.0
+# Description:    Malus_x_domestica_GoldenDelicious1.0
+# Organism name:  Malus domestica
+# Taxid:          3750
+# Submitter:      IASMA research center
+# Date:           2012-8-16
+# BioSample:      SAMN02981243
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000148765.2 (latest)
+# RefSeq Assembly Accession: GCF_000148765.1 (species-representative latest)
+# RefSeq Assembly and GenBank Assemblies Identical: no
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000148775.1	GCF_000148775.1	Primary Assembly
+## GCA_000165855.2	GCF_000165855.1	alt_haplotype1.MalDomGD1.0
+## GCA_000165865.1	GCF_000165865.1	alt_haplotype2.MalDomGD1.0
+## GCA_000165875.1	GCF_000165875.1	alt_haplotype3.MalDomGD1.0
+## 	GCF_000696565.1	non-nuclear
+#
+
+GCF_000001405.11.regions.txt
+# Region Report
+# Assembly Name:  NCBI35
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      International Human Genome Sequencing Consortium
+# Date:           2004-8-24
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# RefSeq Assembly Accession: GCF_000001405.11 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## 	GCF_000001305.11	Primary Assembly
+## 	GCF_000000265.2	DR52
+## 	GCF_000000275.1	DR53
+#
+
+GCF_000001405.12.regions.txt
+# Region Report
+# Assembly Name:  NCBI36
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      International Human Genome Sequencing Consortium
+# Date:           2006-3-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# RefSeq Assembly Accession: GCF_000001405.12 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## 	GCF_000001305.12	Primary Assembly
+## 	GCF_000001325.1	c6_COX
+## 	GCF_000001365.1	c6_QBL
+## 	GCF_000000315.1	c22_H2
+## 	GCF_000000305.1	c5_H2
+## 	GCF_000000275.1	DR53
+#
+
+GCF_000001405.13.regions.txt
+# Region Report
+# Assembly Name:  GRCh37
+# Description:    Genome Reference Consortium Human Build 37 (GRCh37)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2009-2-27
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.13 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+#
+
+GCF_000001405.14.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p2
+# Description:    Genome Reference Consortium Human Build 37 patch release 2 (GRCh37.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2010-8-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.14 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.2	GCF_000005045.1	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.17.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p5
+# Description:    Genome Reference Consortium Human Build 37 patch release 5 (GRCh37.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-6-24
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.6 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.17 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.5	GCF_000005045.4	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.21.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p9
+# Description:    Genome Reference Consortium Human Build 37 patch release 9 (GRCh37.p9)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-7-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.10 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.9	GCF_000005045.8	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.22.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p10
+# Description:    Genome Reference Consortium Human Build 37 patch release 10 (GRCh37.p10)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-31
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.11 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.10	GCF_000005045.9	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.23.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p11
+# Description:    Genome Reference Consortium Human Build 37 patch release 11 (GRCh37.p11)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-12-18
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.12 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.23 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.11	GCF_000005045.10	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.24.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p12
+# Description:    Genome Reference Consortium Human Build 37 patch release 12 (GRCh37.p12)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-26
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.13 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.24 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.12	GCF_000005045.11	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.25.regions.txt
+# Region Report
+# Assembly Name:  GRCh37.p13
+# Description:    Genome Reference Consortium Human Build 37 patch release 13 (GRCh37.p13)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-6-28
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.14 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.25 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.13	GCF_000005045.12	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.26.regions.txt
+# Region Report
+# Assembly Name:  GRCh38
+# Description:    Genome Reference Consortium Human Build 38
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-12-17
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.15 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.26 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.27.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p1
+# Description:    Genome Reference Consortium Human Build 38 patch release 1 (GRCh38.p1)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-10-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.16 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.27 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.14	GCF_000005045.13	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.28.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p2
+# Description:    Genome Reference Consortium Human Build 38 patch release 2 (GRCh38.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-12-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.17 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.28 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.15	GCF_000005045.14	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.29.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p3
+# Description:    Genome Reference Consortium Human Build 38 patch release 3 (GRCh38.p3)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-4-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.18 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.29 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.16	GCF_000005045.15	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.30.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p4
+# Description:    Genome Reference Consortium Human Build 38 patch release 4 (GRCh38.p4)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-6-25
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.19 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.30 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.17	GCF_000005045.16	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.31.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p5
+# Description:    Genome Reference Consortium Human Build 38 patch release 5 (GRCh38.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-9-22
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.20 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.31 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.18	GCF_000005045.17	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001405.32.regions.txt
+# Region Report
+# Assembly Name:  GRCh38.p6
+# Description:    Genome Reference Consortium Human Build 38 patch release 6 (GRCh38.p6)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-12-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.21 (latest)
+# RefSeq Assembly Accession: GCF_000001405.32 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.19	GCF_000005045.18	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+
+GCF_000001635.18.regions.txt
+# Region Report
+# Assembly Name:  MGSCv37
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2010-9-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.18 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.1	GCF_000000055.16	Primary Assembly (C57BL/6J)
+## GCA_000000415.1	GCF_000000415.1	129/J
+## GCA_000000435.1	GCF_000000435.2	129/Sv
+## GCA_000000395.1	GCF_000000395.3	129/SvEvTac
+## GCA_000000445.1	GCF_000000445.2	129/SvJ
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000000485.1	GCF_000000485.2	129S7/SvEv
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.1	GCF_000000335.8	Balb/c
+## GCA_000000465.1	GCF_000000465.2	Cast/Ei
+## GCA_000000355.1	GCF_000000355.8	NOD
+## GCA_000000505.1	GCF_000000505.1	Spret/Ei
+## GCA_000000385.1	GCF_000000385.9	unknown strain
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCF_000001635.20.regions.txt
+# Region Report
+# Assembly Name:  GRCm38
+# Description:    Genome Reference Consortium Mouse Build 38
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-1-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.2 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.20 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCF_000001635.21.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p1
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 1 (GRCm38.p1)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.1	GCF_000291555.1	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCF_000001635.22.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p2
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 2 (GRCm38.p2)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-7
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.4 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.2	GCF_000291555.2	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCF_000001635.23.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p3
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 3 (GRCm38.p3)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2014-3-20
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.5 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.23 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.3	GCF_000291555.3	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCF_000001635.24.regions.txt
+# Region Report
+# Assembly Name:  GRCm38.p4
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 4 (GRCm38.p4)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2015-3-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.6 (latest)
+# RefSeq Assembly Accession: GCF_000001635.24 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.4	GCF_000291555.4	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+
+GCF_000148765.1.regions.txt
+# Region Report
+# Assembly Name:  MalDomGD1.0
+# Description:    Malus_x_domestica_GoldenDelicious1.0
+# Organism name:  Malus domestica
+# Taxid:          3750
+# Submitter:      IASMA research center
+# Date:           2012-8-16
+# BioSample:      SAMN02981243
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000148765.2 (latest)
+# RefSeq Assembly Accession: GCF_000148765.1 (species-representative latest)
+# RefSeq Assembly and GenBank Assemblies Identical: no
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000148775.1	GCF_000148775.1	Primary Assembly
+## GCA_000165855.2	GCF_000165855.1	alt_haplotype1.MalDomGD1.0
+## GCA_000165865.1	GCF_000165865.1	alt_haplotype2.MalDomGD1.0
+## GCA_000165875.1	GCF_000165875.1	alt_haplotype3.MalDomGD1.0
+## 	GCF_000696565.1	non-nuclear
+#
+
+region_metadata.txt
+# Region Report
+# Assembly Name:  GRCh37.p9
+# Description:    Genome Reference Consortium Human Build 37 patch release 9 (GRCh37.p9)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-7-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.10 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.9	GCF_000005045.8	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p10
+# Description:    Genome Reference Consortium Human Build 37 patch release 10 (GRCh37.p10)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-31
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.11 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.10	GCF_000005045.9	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p11
+# Description:    Genome Reference Consortium Human Build 37 patch release 11 (GRCh37.p11)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-12-18
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.12 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.23 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.11	GCF_000005045.10	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p12
+# Description:    Genome Reference Consortium Human Build 37 patch release 12 (GRCh37.p12)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-26
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.13 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.24 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.12	GCF_000005045.11	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p13
+# Description:    Genome Reference Consortium Human Build 37 patch release 13 (GRCh37.p13)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-6-28
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.14 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.25 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.13	GCF_000005045.12	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38
+# Description:    Genome Reference Consortium Human Build 38
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-12-17
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.15 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.26 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p1
+# Description:    Genome Reference Consortium Human Build 38 patch release 1 (GRCh38.p1)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-10-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.16 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.27 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.14	GCF_000005045.13	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p2
+# Description:    Genome Reference Consortium Human Build 38 patch release 2 (GRCh38.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-12-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.17 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.28 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.15	GCF_000005045.14	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p3
+# Description:    Genome Reference Consortium Human Build 38 patch release 3 (GRCh38.p3)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-4-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.18 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.29 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.16	GCF_000005045.15	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p4
+# Description:    Genome Reference Consortium Human Build 38 patch release 4 (GRCh38.p4)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-6-25
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.19 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.30 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.17	GCF_000005045.16	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37
+# Description:    Genome Reference Consortium Human Build 37 (GRCh37)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2009-2-27
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.13 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+#
+# Region Report
+# Assembly Name:  GRCh38.p5
+# Description:    Genome Reference Consortium Human Build 38 patch release 5 (GRCh38.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-9-22
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.20 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.31 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.18	GCF_000005045.17	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p6
+# Description:    Genome Reference Consortium Human Build 38 patch release 6 (GRCh38.p6)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-12-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.21 (latest)
+# RefSeq Assembly Accession: GCF_000001405.32 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.19	GCF_000005045.18	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p1
+# Description:    Genome Reference Consortium Human Build 37 patch release 1 (GRCh37.p1)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2010-2-22
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.2 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.1		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+#
+# Region Report
+# Assembly Name:  GRCh37.p2
+# Description:    Genome Reference Consortium Human Build 37 patch release 2 (GRCh37.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2010-8-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.14 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.2	GCF_000005045.1	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p3
+# Description:    Genome Reference Consortium Human Build 37 patch release 3 (GRCh37.p3)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-1-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.4 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.3		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p4
+# Description:    Genome Reference Consortium Human Build 37 patch release 4 (GRCh37.p4)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-3-29
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.5 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.4		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p5
+# Description:    Genome Reference Consortium Human Build 37 patch release 5 (GRCh37.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-6-24
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.6 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.17 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.5	GCF_000005045.4	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p6
+# Description:    Genome Reference Consortium Human Build 37 patch release 6 (GRCh37.p6)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-9-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.7 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.6		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p7
+# Description:    Genome Reference Consortium Human Build 37 patch release 7 (GRCh37.p7)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-1-25
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.8 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.7		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p8
+# Description:    Genome Reference Consortium Human Build 37 patch release 8 (GRCh37.p8)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-4-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.9 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1		Primary Assembly
+## GCA_000005045.8		PATCHES
+## GCA_000001315.1		ALT_REF_LOCI_1
+## GCA_000001325.1		ALT_REF_LOCI_2
+## GCA_000001335.1		ALT_REF_LOCI_3
+## GCA_000001345.1		ALT_REF_LOCI_4
+## GCA_000001355.1		ALT_REF_LOCI_5
+## GCA_000001365.1		ALT_REF_LOCI_6
+## GCA_000001375.1		ALT_REF_LOCI_7
+## GCA_000001385.1		ALT_REF_LOCI_8
+## GCA_000001395.1		ALT_REF_LOCI_9
+## GCA_000006015.1		non-nuclear
+#
+# Region Report
+# Assembly Name:  MGSCv37
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2010-9-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.18 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.1	GCF_000000055.16	Primary Assembly (C57BL/6J)
+## GCA_000000415.1	GCF_000000415.1	129/J
+## GCA_000000435.1	GCF_000000435.2	129/Sv
+## GCA_000000395.1	GCF_000000395.3	129/SvEvTac
+## GCA_000000445.1	GCF_000000445.2	129/SvJ
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000000485.1	GCF_000000485.2	129S7/SvEv
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.1	GCF_000000335.8	Balb/c
+## GCA_000000465.1	GCF_000000465.2	Cast/Ei
+## GCA_000000355.1	GCF_000000355.8	NOD
+## GCA_000000505.1	GCF_000000505.1	Spret/Ei
+## GCA_000000385.1	GCF_000000385.9	unknown strain
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38
+# Description:    Genome Reference Consortium Mouse Build 38
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-1-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.2 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.20 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p1
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 1 (GRCm38.p1)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.1	GCF_000291555.1	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p2
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 2 (GRCm38.p2)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-7
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.4 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.2	GCF_000291555.2	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p3
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 3 (GRCm38.p3)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2014-3-20
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.5 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.23 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.3	GCF_000291555.3	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p4
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 4 (GRCm38.p4)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2015-3-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.6 (latest)
+# RefSeq Assembly Accession: GCF_000001635.24 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.4	GCF_000291555.4	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  MalDomGD1.0
+# Description:    Malus_x_domestica_GoldenDelicious1.0
+# Organism name:  Malus domestica
+# Taxid:          3750
+# Submitter:      IASMA research center
+# Date:           2012-8-16
+# BioSample:      SAMN02981243
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000148765.2 (latest)
+# RefSeq Assembly Accession: GCF_000148765.1 (species-representative latest)
+# RefSeq Assembly and GenBank Assemblies Identical: no
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000148775.1	GCF_000148775.1	Primary Assembly
+## GCA_000165855.2	GCF_000165855.1	alt_haplotype1.MalDomGD1.0
+## GCA_000165865.1	GCF_000165865.1	alt_haplotype2.MalDomGD1.0
+## GCA_000165875.1	GCF_000165875.1	alt_haplotype3.MalDomGD1.0
+## 	GCF_000696565.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  NCBI35
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      International Human Genome Sequencing Consortium
+# Date:           2004-8-24
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# RefSeq Assembly Accession: GCF_000001405.11 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## 	GCF_000001305.11	Primary Assembly
+## 	GCF_000000265.2	DR52
+## 	GCF_000000275.1	DR53
+#
+# Region Report
+# Assembly Name:  NCBI36
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      International Human Genome Sequencing Consortium
+# Date:           2006-3-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# RefSeq Assembly Accession: GCF_000001405.12 (replaced)
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## 	GCF_000001305.12	Primary Assembly
+## 	GCF_000001325.1	c6_COX
+## 	GCF_000001365.1	c6_QBL
+## 	GCF_000000315.1	c22_H2
+## 	GCF_000000305.1	c5_H2
+## 	GCF_000000275.1	DR53
+#
+# Region Report
+# Assembly Name:  GRCh37
+# Description:    Genome Reference Consortium Human Build 37 (GRCh37)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2009-2-27
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.13 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+#
+# Region Report
+# Assembly Name:  GRCh37.p2
+# Description:    Genome Reference Consortium Human Build 37 patch release 2 (GRCh37.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2010-8-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.14 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.2	GCF_000005045.1	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p5
+# Description:    Genome Reference Consortium Human Build 37 patch release 5 (GRCh37.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2011-6-24
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.6 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.17 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.5	GCF_000005045.4	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p9
+# Description:    Genome Reference Consortium Human Build 37 patch release 9 (GRCh37.p9)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-7-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.10 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.9	GCF_000005045.8	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p10
+# Description:    Genome Reference Consortium Human Build 37 patch release 10 (GRCh37.p10)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-31
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.11 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.10	GCF_000005045.9	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p11
+# Description:    Genome Reference Consortium Human Build 37 patch release 11 (GRCh37.p11)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2012-12-18
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.12 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.23 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.11	GCF_000005045.10	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p12
+# Description:    Genome Reference Consortium Human Build 37 patch release 12 (GRCh37.p12)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-26
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.13 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.24 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.12	GCF_000005045.11	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh37.p13
+# Description:    Genome Reference Consortium Human Build 37 patch release 13 (GRCh37.p13)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-6-28
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.14 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.25 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.1	GCF_000001305.13	Primary Assembly
+## GCA_000005045.13	GCF_000005045.12	PATCHES
+## GCA_000001315.1	GCF_000001315.1	ALT_REF_LOCI_1
+## GCA_000001325.1	GCF_000001325.2	ALT_REF_LOCI_2
+## GCA_000001335.1	GCF_000001335.1	ALT_REF_LOCI_3
+## GCA_000001345.1	GCF_000001345.1	ALT_REF_LOCI_4
+## GCA_000001355.1	GCF_000001355.1	ALT_REF_LOCI_5
+## GCA_000001365.1	GCF_000001365.2	ALT_REF_LOCI_6
+## GCA_000001375.1	GCF_000001375.1	ALT_REF_LOCI_7
+## GCA_000001385.1	GCF_000001385.1	ALT_REF_LOCI_8
+## GCA_000001395.1	GCF_000001395.1	ALT_REF_LOCI_9
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38
+# Description:    Genome Reference Consortium Human Build 38
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2013-12-17
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.15 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.26 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p1
+# Description:    Genome Reference Consortium Human Build 38 patch release 1 (GRCh38.p1)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-10-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.16 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.27 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.14	GCF_000005045.13	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p2
+# Description:    Genome Reference Consortium Human Build 38 patch release 2 (GRCh38.p2)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2014-12-5
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.17 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.28 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.15	GCF_000005045.14	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p3
+# Description:    Genome Reference Consortium Human Build 38 patch release 3 (GRCh38.p3)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-4-3
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.18 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.29 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.16	GCF_000005045.15	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p4
+# Description:    Genome Reference Consortium Human Build 38 patch release 4 (GRCh38.p4)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-6-25
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.19 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.30 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.17	GCF_000005045.16	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p5
+# Description:    Genome Reference Consortium Human Build 38 patch release 5 (GRCh38.p5)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-9-22
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.20 (replaced)
+# RefSeq Assembly Accession: GCF_000001405.31 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.18	GCF_000005045.17	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCh38.p6
+# Description:    Genome Reference Consortium Human Build 38 patch release 6 (GRCh38.p6)
+# Organism name:  Homo sapiens
+# Taxid:          9606
+# Submitter:      Genome Reference Consortium
+# Date:           2015-12-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001405.21 (latest)
+# RefSeq Assembly Accession: GCF_000001405.32 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000001305.2	GCF_000001305.14	Primary Assembly
+## GCA_000005045.19	GCF_000005045.18	PATCHES
+## GCA_000001315.2	GCF_000001315.2	ALT_REF_LOCI_1
+## GCA_000001325.2	GCF_000001325.3	ALT_REF_LOCI_2
+## GCA_000001335.2	GCF_000001335.2	ALT_REF_LOCI_3
+## GCA_000001345.2	GCF_000001345.2	ALT_REF_LOCI_4
+## GCA_000001355.2	GCF_000001355.2	ALT_REF_LOCI_5
+## GCA_000001365.2	GCF_000001365.3	ALT_REF_LOCI_6
+## GCA_000001375.2	GCF_000001375.2	ALT_REF_LOCI_7
+## GCA_000510225.1	GCF_000510225.1	ALT_REF_LOCI_8
+## GCA_000510235.1	GCF_000510235.1	ALT_REF_LOCI_9
+## GCA_000509915.1	GCF_000509915.1	ALT_REF_LOCI_10
+## GCA_000509925.1	GCF_000509925.1	ALT_REF_LOCI_11
+## GCA_000509935.1	GCF_000509935.1	ALT_REF_LOCI_12
+## GCA_000509945.1	GCF_000509945.1	ALT_REF_LOCI_13
+## GCA_000509955.1	GCF_000509955.1	ALT_REF_LOCI_14
+## GCA_000509965.1	GCF_000509965.1	ALT_REF_LOCI_15
+## GCA_000509975.1	GCF_000509975.1	ALT_REF_LOCI_16
+## GCA_000509985.1	GCF_000509985.1	ALT_REF_LOCI_17
+## GCA_000509995.1	GCF_000509995.1	ALT_REF_LOCI_18
+## GCA_000510005.1	GCF_000510005.1	ALT_REF_LOCI_19
+## GCA_000510015.1	GCF_000510015.1	ALT_REF_LOCI_20
+## GCA_000510025.1	GCF_000510025.1	ALT_REF_LOCI_21
+## GCA_000510035.1	GCF_000510035.1	ALT_REF_LOCI_22
+## GCA_000510045.1	GCF_000510045.1	ALT_REF_LOCI_23
+## GCA_000510055.1	GCF_000510055.1	ALT_REF_LOCI_24
+## GCA_000510065.1	GCF_000510065.1	ALT_REF_LOCI_25
+## GCA_000510075.1	GCF_000510075.1	ALT_REF_LOCI_26
+## GCA_000510085.1	GCF_000510085.1	ALT_REF_LOCI_27
+## GCA_000510095.1	GCF_000510095.1	ALT_REF_LOCI_28
+## GCA_000510105.1	GCF_000510105.1	ALT_REF_LOCI_29
+## GCA_000510125.1	GCF_000510125.1	ALT_REF_LOCI_30
+## GCA_000510135.1	GCF_000510135.1	ALT_REF_LOCI_31
+## GCA_000510145.1	GCF_000510145.1	ALT_REF_LOCI_32
+## GCA_000510155.1	GCF_000510155.1	ALT_REF_LOCI_33
+## GCA_000510165.1	GCF_000510165.1	ALT_REF_LOCI_34
+## GCA_000510175.1	GCF_000510175.1	ALT_REF_LOCI_35
+## GCA_000006015.1	GCF_000006015.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  MGSCv37
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2010-9-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.1 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.18 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.1	GCF_000000055.16	Primary Assembly (C57BL/6J)
+## GCA_000000415.1	GCF_000000415.1	129/J
+## GCA_000000435.1	GCF_000000435.2	129/Sv
+## GCA_000000395.1	GCF_000000395.3	129/SvEvTac
+## GCA_000000445.1	GCF_000000445.2	129/SvJ
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000000485.1	GCF_000000485.2	129S7/SvEv
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.1	GCF_000000335.8	Balb/c
+## GCA_000000465.1	GCF_000000465.2	Cast/Ei
+## GCA_000000355.1	GCF_000000355.8	NOD
+## GCA_000000505.1	GCF_000000505.1	Spret/Ei
+## GCA_000000385.1	GCF_000000385.9	unknown strain
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38
+# Description:    Genome Reference Consortium Mouse Build 38
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-1-9
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.2 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.20 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p1
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 1 (GRCm38.p1)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2012-8-21
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.3 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.21 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.1	GCF_000291555.1	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p2
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 2 (GRCm38.p2)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2013-3-7
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.4 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.22 (replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.2	GCF_000291555.2	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p3
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 3 (GRCm38.p3)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2014-3-20
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.5 (replaced)
+# RefSeq Assembly Accession: GCF_000001635.23 (species-representative replaced)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.3	GCF_000291555.3	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  GRCm38.p4
+# Description:    Genome Reference Consortium Mouse Build 38 patch release 4 (GRCm38.p4)
+# Organism name:  Mus musculus
+# Taxid:          10090
+# Submitter:      Genome Reference Consortium
+# Date:           2015-3-23
+# Assembly type:  haploid-with-alt-loci
+# Release type:   patch
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000001635.6 (latest)
+# RefSeq Assembly Accession: GCF_000001635.24 (latest)
+# RefSeq Assembly and GenBank Assemblies Identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000000055.2	GCF_000000055.19	Primary Assembly (C57BL/6J)
+## GCA_000291555.4	GCF_000291555.4	PATCHES
+## GCA_000000495.1	GCF_000000495.3	129P2/OlaHsd
+## GCA_000001665.1	GCF_000001665.3	129S1/SvImJ
+## GCA_000001675.1	GCF_000001675.3	129S2/SvPas
+## GCA_000000395.2	GCF_000000395.5	129S6/SvEvTac
+## GCA_000237955.1	GCF_000237955.1	129X1/SvJ
+## GCA_000000325.1	GCF_000000325.5	A/J
+## GCA_000000425.1	GCF_000000425.1	AKR/J
+## GCA_000000335.2	GCF_000000335.9	BALB/c
+## GCA_000000465.2	GCF_000000465.4	CAST/Ei
+## GCA_000001715.1	GCF_000001715.3	NOD/MrkTac
+## GCA_000001705.1	GCF_000001705.1	NOD/ShiLtJ
+## GCA_000001725.1	GCF_000001725.3	RIII
+## GCA_000000385.2	GCF_000000385.11	UNKNOWN
+## GCA_000001685.1	GCF_000001685.3	129S7/SvEvBrd-Hprt-b-m2
+## GCA_000004175.1	GCF_000004175.1	non-nuclear
+#
+# Region Report
+# Assembly Name:  MalDomGD1.0
+# Description:    Malus_x_domestica_GoldenDelicious1.0
+# Organism name:  Malus domestica
+# Taxid:          3750
+# Submitter:      IASMA research center
+# Date:           2012-8-16
+# BioSample:      SAMN02981243
+# Assembly type:  haploid-with-alt-loci
+# Release type:   major
+# Assembly level: Chromosome
+# Genome representation: full
+# GenBank Assembly Accession: GCA_000148765.2 (latest)
+# RefSeq Assembly Accession: GCF_000148765.1 (species-representative latest)
+# RefSeq Assembly and GenBank Assemblies Identical: no
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_000148775.1	GCF_000148775.1	Primary Assembly
+## GCA_000165855.2	GCF_000165855.1	alt_haplotype1.MalDomGD1.0
+## GCA_000165865.1	GCF_000165865.1	alt_haplotype2.MalDomGD1.0
+## GCA_000165875.1	GCF_000165875.1	alt_haplotype3.MalDomGD1.0
+## 	GCF_000696565.1	non-nuclear
+
